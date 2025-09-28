@@ -21,7 +21,7 @@ dependencies:
   shimmer: ^3.0.0
   google_fonts: ^6.2.0
   image_cropper: ^9.1.0
-  image_picker: ^1.1.2
+  image_picker: ^1.2.0
   loading_animation_widget: ^1.3.0
   flutter_otp_text_field:
   time_picker_spinner_pop_up:
