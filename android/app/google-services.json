@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452727175139",
+    "project_id": "semester-bce8a",
+    "storage_bucket": "semester-bce8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452727175139:android:679c9e6522fdc62c4512d6",
+        "android_client_info": {
+          "package_name": "com.semester.ride.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_d3eaQ9oOuVGOzaCsQ8tLMjvHZgfaCOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

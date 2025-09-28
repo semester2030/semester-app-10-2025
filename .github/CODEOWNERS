@@ -1,0 +1,26 @@
+# Global owners
+* @maintainer1 @maintainer2
+
+# Flutter/Dart code
+/lib/ @flutter-team
+/pubspec.yaml @flutter-team
+/analysis_options.yaml @flutter-team
+
+# Firebase functions
+/functions/ @backend-team
+/firebase.json @backend-team
+
+# Documentation
+/README.md @docs-team
+/DEVELOPER_GUIDE.md @docs-team
+/CONTRIBUTING.md @docs-team
+/CHANGELOG.md @docs-team
+
+# GitHub workflows
+/.github/ @devops-team
+
+# Android specific
+/android/ @android-team
+
+# iOS specific
+/ios/ @ios-team

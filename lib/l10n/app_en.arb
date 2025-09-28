@@ -1,0 +1,4858 @@
+{
+  "@@locale": "en",
+  
+  "appTitle": "NAYBRZ DXB",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Change language screen title"
+  },
+  
+  "saveLanguage": "Save Language",
+  "@saveLanguage": {
+    "description": "Save language button text"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  
+  "arabic": "عربي",
+  "@arabic": {
+    "description": "Arabic language option"
+  },
+  
+  "onboarding1Title": "Your Reliable Ride Partner",
+  "@onboarding1Title": {
+    "description": "Title for first onboarding screen"
+  },
+  
+  "onboarding1Description": "Whether you're a student, parent, or teacher — Semester App offers and scheduled way to commute.",
+  "@onboarding1Description": {
+    "description": "Description for first onboarding screen"
+  },
+  
+  "onboarding2Title": "Book Your Ride with Ease",
+  "@onboarding2Title": {
+    "description": "Title for second onboarding screen"
+  },
+  
+  "onboarding2Description": "Schedule your school rides with verified drivers in just a few simple steps.",
+  "@onboarding2Description": {
+    "description": "Description for second onboarding screen"
+  },
+  
+  "onboarding3Title": "Track Your Ride in Real-time",
+  "@onboarding3Title": {
+    "description": "Title for third onboarding screen"
+  },
+  
+  "onboarding3Description": "Monitor bus location and estimated arrival times with live updates.",
+  "@onboarding3Description": {
+    "description": "Description for third onboarding screen"
+  },
+  
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button text"
+  },
+  
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {
+    "description": "Login screen welcome title"
+  },
+  
+  "loginDescription": "Enter your login credentials to continue. You won't be able to login if your account isn't verified.",
+  "@loginDescription": {
+    "description": "Login screen description"
+  },
+  
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  
+  "loggingIn": "Logging in...",
+  "@loggingIn": {
+    "description": "Login button loading state"
+  },
+  
+  "dontHaveAccount": "Don't have an account? ",
+  "@dontHaveAccount": {
+    "description": "Sign up prompt text"
+  },
+  
+  "registerNow": "Register Now",
+  "@registerNow": {
+    "description": "Register button text"
+  },
+  
+  "testAccountInstructions": "Test Account Instructions",
+  "@testAccountInstructions": {
+    "description": "Test account dialog title"
+  },
+  
+  "testAccountDescription": "To test the app, please use one of the following test accounts:",
+  "@testAccountDescription": {
+    "description": "Test account dialog description"
+  },
+  
+  "forUserSide": "• For User Side:",
+  "@forUserSide": {
+    "description": "User side test account label"
+  },
+  
+  "forDriverSide": "• For Driver Side:",
+  "@forDriverSide": {
+    "description": "Driver side test account label"
+  },
+  
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  
+  "forgotPasswordTitle": "Forgot Password",
+  "@forgotPasswordTitle": {
+    "description": "Forgot password screen title"
+  },
+  
+  "forgotPasswordDescription": "Enter your email address and we'll send you a verification code to reset your password.",
+  "@forgotPasswordDescription": {
+    "description": "Forgot password screen description"
+  },
+  
+  "sendOtp": "Send OTP",
+  "@sendOtp": {
+    "description": "Send OTP button text"
+  },
+  
+  "rememberPassword": "Remember password? ",
+  "@rememberPassword": {
+    "description": "Remember password text"
+  },
+  
+  "backToLogin": "Back to Login",
+  "@backToLogin": {
+    "description": "Back to login link text"
+  },
+  
+  "otpVerification": "OTP Verification",
+  "@otpVerification": {
+    "description": "OTP verification screen title"
+  },
+  
+  "otpDescription": "Enter the 6-digit verification code sent to your email address.",
+  "@otpDescription": {
+    "description": "OTP verification screen description"
+  },
+  
+  "enterOtp": "Enter OTP",
+  "@enterOtp": {
+    "description": "Enter OTP field label"
+  },
+  
+  "verifyOtp": "Verify OTP",
+  "@verifyOtp": {
+    "description": "Verify OTP button text"
+  },
+  
+  "didntReceiveOtp": "Didn't receive the code? ",
+  "@didntReceiveOtp": {
+    "description": "Resend OTP prompt text"
+  },
+  
+  "resendOtp": "Resend",
+  "@resendOtp": {
+    "description": "Resend OTP button text"
+  },
+  
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password screen title"
+  },
+  
+  "resetPasswordDescription": "Enter your new password for your account.",
+  "@resetPasswordDescription": {
+    "description": "Reset password screen description"
+  },
+  
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New password field label"
+  },
+  
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Confirm new password field label"
+  },
+  
+  "updatePassword": "Update Password",
+  "@updatePassword": {
+    "description": "Update password button text"
+  },
+  
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  
+  "myBookings": "My Bookings",
+  "@myBookings": {
+    "description": "My bookings tab label"
+  },
+  
+  "messages": "Messages",
+  "@messages": {
+    "description": "Messages tab label"
+  },
+  
+  "map": "Map",
+  "@map": {
+    "description": "Map tab label"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab label"
+  },
+  
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  
+  "signup": "Sign Up",
+  "@signup": {
+    "description": "Sign up button text"
+  },
+  
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  
+  "firstName": "First Name",
+  "@firstName": {
+    "description": "First name field label"
+  },
+  
+  "lastName": "Last Name",
+  "@lastName": {
+    "description": "Last name field label"
+  },
+  
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password button text"
+  },
+  
+  "dailyTransportation": "Daily Transportation",
+  "@dailyTransportation": {
+    "description": "Daily transportation service type"
+  },
+  
+  "transportationForEmployees": "Transportation for Employees",
+  "@transportationForEmployees": {
+    "description": "Transportation for employees service type"
+  },
+  
+  "studentTransportation": "Student Transportation",
+  "@studentTransportation": {
+    "description": "Student transportation service type"
+  },
+  
+  "booking": "Booking",
+  "@booking": {
+    "description": "Booking label"
+  },
+  
+  "bookNow": "Book Now",
+  "@bookNow": {
+    "description": "Book now button text"
+  },
+  
+  "confirmBooking": "Confirm Booking",
+  "@confirmBooking": {
+    "description": "Confirm booking button text"
+  },
+  
+  "cancelBooking": "Cancel Booking",
+  "@cancelBooking": {
+    "description": "Cancel booking button text"
+  },
+  
+  "driver": "Driver",
+  "@driver": {
+    "description": "Driver label"
+  },
+  
+  "user": "User",
+  "@user": {
+    "description": "User label"
+  },
+  
+  "student": "Student",
+  "@student": {
+    "description": "Student label"
+  },
+  
+  "employee": "Employee",
+  "@employee": {
+    "description": "Employee label"
+  },
+  
+  "vehicle": "Vehicle",
+  "@vehicle": {
+    "description": "Vehicle label"
+  },
+  
+  "vehicleType": "Vehicle Type",
+  "@vehicleType": {
+    "description": "Vehicle type label"
+  },
+  
+  "vehicleModel": "Vehicle Model",
+  "@vehicleModel": {
+    "description": "Vehicle model label"
+  },
+  
+  "licensePlate": "License Plate",
+  "@licensePlate": {
+    "description": "License plate label"
+  },
+  
+  "pickupLocation": "Pickup Location",
+  "@pickupLocation": {
+    "description": "Pickup location label"
+  },
+  
+  "destination": "Destination",
+  "@destination": {
+    "description": "Destination label"
+  },
+  
+  "pickupTime": "Pickup Time",
+  "@pickupTime": {
+    "description": "Pickup time label"
+  },
+  
+  "fare": "Fare",
+  "@fare": {
+    "description": "Fare label"
+  },
+  
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+  
+  "confirmed": "Confirmed",
+  "@confirmed": {
+    "description": "Confirmed status"
+  },
+  
+  "inProgress": "In Progress",
+  "@inProgress": {
+    "description": "In progress status"
+  },
+  
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status"
+  },
+  
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+  
+  "active": "Active",
+  "@active": {
+    "description": "Active status"
+  },
+  
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating label"
+  },
+  
+  "review": "Review",
+  "@review": {
+    "description": "Review label"
+  },
+  
+  "addReview": "Add Review",
+  "@addReview": {
+    "description": "Add review button text"
+  },
+  
+  "payment": "Payment",
+  "@payment": {
+    "description": "Payment label"
+  },
+  
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "description": "Payment method label"
+  },
+  
+  "cash": "Cash",
+  "@cash": {
+    "description": "Cash payment method"
+  },
+  
+  "card": "Card",
+  "@card": {
+    "description": "Card payment method"
+  },
+  
+  "digitalWallet": "Digital Wallet",
+  "@digitalWallet": {
+    "description": "Digital wallet payment method"
+  },
+  
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile label"
+  },
+  
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile button text"
+  },
+  
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label"
+  },
+  
+  "helpSupport": "Help & Support",
+  "@helpSupport": {
+    "description": "Help and support label"
+  },
+  
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "Change password label"
+  },
+  
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  
+  "male": "Male",
+  "@male": {
+    "description": "Male gender option"
+  },
+  
+  "female": "Female",
+  "@female": {
+    "description": "Female gender option"
+  },
+  
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender label"
+  },
+  
+  "city": "City",
+  "@city": {
+    "description": "City label"
+  },
+  
+  "address": "Address",
+  "@address": {
+    "description": "Address label"
+  },
+  
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "search": "Search",
+  "@search": {
+    "description": "Search placeholder text"
+  },
+  
+  "selectDriver": "Select Date",
+  "@selectDriver": {
+    "description": "Select driver screen title"
+  },
+  
+  "bookingDetails": "Booking Details",
+  "@bookingDetails": {
+    "description": "Booking details screen title"
+  },
+  
+  "notes": "Notes",
+  "@notes": {
+    "description": "Notes label"
+  },
+  
+  "distance": "Distance",
+  "@distance": {
+    "description": "Distance label"
+  },
+  
+  "duration": "Duration",
+  "@duration": {
+    "description": "Duration label"
+  },
+  
+  "aed": "AED",
+  "@aed": {
+    "description": "UAE Dirham currency"
+  },
+  
+  "riyal": "Riyal",
+  "@riyal": {
+    "description": "Saudi Riyal currency"
+  },
+  
+  "uploadDocuments": "Upload Documents",
+  "@uploadDocuments": {
+    "description": "Upload documents screen title"
+  },
+  
+  "selectVehicleType": "Select Vehicle Type",
+  "@selectVehicleType": {
+    "description": "Select vehicle type instruction"
+  },
+  
+  "car": "Car",
+  "@car": {
+    "description": "Car vehicle type"
+  },
+  
+  "suv": "SUV",
+  "@suv": {
+    "description": "SUV vehicle type"
+  },
+  
+  "van": "Van",
+  "@van": {
+    "description": "Van vehicle type"
+  },
+  
+  "bus": "Bus",
+  "@bus": {
+    "description": "Bus vehicle type"
+  },
+  
+  "sedan": "Sedan",
+  "@sedan": {
+    "description": "Sedan vehicle type"
+  },
+  
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {
+    "description": "Welcome back message"
+  },
+  
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button text"
+  },
+  
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button text"
+  },
+  
+  "done": "Done",
+  "@done": {
+    "description": "Done button text"
+  },
+  
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  
+  "error": "Error",
+  "@error": {
+    "description": "Error message"
+  },
+  
+  "success": "Success",
+  "@success": {
+    "description": "Success message"
+  },
+  
+  "languageChangedSuccessfully": "Language changed successfully",
+  "@languageChangedSuccessfully": {
+    "description": "Language change success message"
+  },
+  
+  "pleaseSelectLanguage": "Please select a language",
+  "@pleaseSelectLanguage": {
+    "description": "Language selection validation message"
+  },
+  
+  "registerNewAccount": "Register New Account",
+  "@registerNewAccount": {
+    "description": "Register new account title"
+  },
+  
+  "chooseAccountType": "Subscription Date Required",
+  "@chooseAccountType": {
+    "description": "Account type selection description"
+  },
+  
+  "student": "Student",
+  "@student": {
+    "description": "Student role option"
+  },
+  
+  "driver": "Driver",
+  "@driver": {
+    "description": "Driver role option"
+  },
+  
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue button text"
+  },
+  
+  "pleaseSelectAccountType": "Please select your subscription start date",
+  "@pleaseSelectAccountType": {
+    "description": "Account type selection validation message"
+  },
+  
+  "personalInformation": "Personal Information",
+  "@personalInformation": {
+    "description": "Personal information section header"
+  },
+  
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender field label"
+  },
+  
+  "selectGender": "Select University",
+  "@selectGender": {
+    "description": "Gender selection placeholder"
+  },
+  "selectUniversity": "Select University",
+  "addUniversityOrInstituteName": "Add university or institute name",
+  
+  "male": "Male",
+  "@male": {
+    "description": "Male gender option"
+  },
+  
+  "female": "Female",
+  "@female": {
+    "description": "Female gender option"
+  },
+  
+  "vehicleInformation": "Vehicle Information",
+  "@vehicleInformation": {
+    "description": "Vehicle information section header"
+  },
+  
+  "vehicleModel": "Vehicle Model",
+  "@vehicleModel": {
+    "description": "Vehicle model field label"
+  },
+  
+  "vehicleColor": "Vehicle Color",
+  "@vehicleColor": {
+    "description": "Vehicle color field label"
+  },
+  
+  "locationInformation": "Location Information",
+  "@locationInformation": {
+    "description": "Location information section header"
+  },
+  
+  "district": "District",
+  "@district": {
+    "description": "District field label"
+  },
+  
+  "accountInformation": "Account Information",
+  "@accountInformation": {
+    "description": "Account information section header"
+  },
+  
+  "termsAndConditions": "I agree to the Terms and Conditions",
+  "@termsAndConditions": {
+    "description": "Terms and conditions checkbox text"
+  },
+  
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  
+  "becomeDriver": "Become a Driver",
+  "@becomeDriver": {
+    "description": "Become a driver title"
+  },
+  
+  "verifyIdentityDescription": "Verify your identity and vehicle with these required documents to start earning.",
+  "@verifyIdentityDescription": {
+    "description": "Document verification description"
+  },
+  
+  "uploadIdCard": "Upload ID Card Photo",
+  "@uploadIdCard": {
+    "description": "ID card upload label"
+  },
+  
+  "drivingLicense": "Driving License Photo",
+  "@drivingLicense": {
+    "description": "Driving license upload label"
+  },
+  
+  "vehicleRegistration": "Vehicle Registration Photo",
+  "@vehicleRegistration": {
+    "description": "Vehicle registration upload label"
+  },
+  
+  "vehiclePhoto": "Vehicle Photo (with License Plate)",
+  "@vehiclePhoto": {
+    "description": "Vehicle photo upload label"
+  },
+  
+  "profilePicture": "Profile Picture",
+  "@profilePicture": {
+    "description": "Profile picture upload label"
+  },
+  
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button text"
+  },
+  
+  "congratulations": "Congratulations",
+  "@congratulations": {
+    "description": "Congratulations title"
+  },
+  
+  "applicationSubmittedSuccessfully": "Your email verify. Your application has been submitted successfully. We will review your application and contact you within 24 hours.",
+  "@applicationSubmittedSuccessfully": {
+    "description": "Application submission success message"
+  },
+  
+  "done": "Done",
+  "@done": {
+    "description": "Done button text"
+  },
+  
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+  
+  "pleaseSelectRole": "Please select a role to proceed",
+  "@pleaseSelectRole": {
+    "description": "Role selection validation message"
+  },
+  
+  "uploadDocuments": "Upload Documents",
+  "@uploadDocuments": {
+    "description": "Upload documents button text"
+  },
+  
+  "selectFromGallery": "Select from Gallery",
+  "@selectFromGallery": {
+    "description": "Gallery selection option"
+  },
+  
+  "takePhoto": "Take Photo",
+  "@takePhoto": {
+    "description": "Camera option"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  
+  "clickToUpload": "Click to upload",
+  "@clickToUpload": {
+    "description": "Upload instruction text"
+  },
+  
+  "idCardFileName": "Id Card.png",
+  "@idCardFileName": {
+    "description": "ID card file name"
+  },
+  
+  "drivingLicenseFileName": "Driving License.png",
+  "@drivingLicenseFileName": {
+    "description": "Driving license file name"
+  },
+  
+  "vehicleRegistrationFileName": "Vehicle Registration.png",
+  "@vehicleRegistrationFileName": {
+    "description": "Vehicle registration file name"
+  },
+  
+  "vehiclePhotoFileName": "Vehicle Photo.png",
+  "@vehiclePhotoFileName": {
+    "description": "Vehicle photo file name"
+  },
+  
+  "profilePictureFileName": "Profile Picture.png",
+  "@profilePictureFileName": {
+    "description": "Profile picture file name"
+  },
+  
+  "driverRegistrationRequirements": "Driver Registration Requirements",
+  "@driverRegistrationRequirements": {
+    "description": "Driver registration requirements title"
+  },
+  
+  "userRegistrationRequirements": "User Registration Requirements",
+  "@userRegistrationRequirements": {
+    "description": "User registration requirements title"
+  },
+  
+  "requirement21Years": "Must be 21 years or older.",
+  "@requirement21Years": {
+    "description": "Age requirement for drivers"
+  },
+  
+  "requirementValidLicense": "Valid Driving License.",
+  "@requirementValidLicense": {
+    "description": "Valid license requirement"
+  },
+  
+  "requirementValidID": "Valid National ID.",
+  "@requirementValidID": {
+    "description": "Valid ID requirement"
+  },
+  
+  "requirementVehicleInsurance": "Valid Vehicle Insurance.",
+  "@requirementVehicleInsurance": {
+    "description": "Vehicle insurance requirement"
+  },
+  
+  "requirementPersonalPhoto": "Recent Personal Photo",
+  "@requirementPersonalPhoto": {
+    "description": "Personal photo requirement"
+  },
+  
+  "requirementCleanRecord": "Clean Driving Record.",
+  "@requirementCleanRecord": {
+    "description": "Clean driving record requirement"
+  },
+  
+  "requirement18Years": "Must be 18 years old or older",
+  "@requirement18Years": {
+    "description": "Age requirement for users"
+  },
+  
+  "requirementMobileNumber": "Active Mobile Number",
+  "@requirementMobileNumber": {
+    "description": "Mobile number requirement"
+  },
+  
+  "requirementActiveEmail": "Active Email",
+  "@requirementActiveEmail": {
+    "description": "Active email requirement"
+  },
+  
+  "reviewMessage": "Your request will be reviewed and you will be contacted within 24 hours",
+  "@reviewMessage": {
+    "description": "Review process message"
+  },
+  
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Already have account text"
+  },
+  
+  "loginNow": "Login Now",
+  "@loginNow": {
+    "description": "Login now link text"
+  },
+  
+  "security": "Security",
+  "@security": {
+    "description": "Security section header"
+  },
+  
+  "createPassword": "Create Password",
+  "@createPassword": {
+    "description": "Create password field label"
+  },
+  
+  "termsDescription": "By continuing, you agree to our Terms of Service and Privacy Policy. Your information will be securely stored and used to enhance your driving experience.",
+  "@termsDescription": {
+    "description": "Terms and conditions description"
+  },
+  
+  "serviceType": "Service Type",
+  "@serviceType": {
+    "description": "Service type field label"
+  },
+  
+  "selectServiceType": "Select your service type",
+  "@selectServiceType": {
+    "description": "Service type selection placeholder"
+  },
+  
+  "fullTime": "Full Time",
+  "@fullTime": {
+    "description": "Full time service option"
+  },
+  
+  "partTime": "Part Time",
+  "@partTime": {
+    "description": "Part time service option"
+  },
+  
+  "fullTimeDescription": "40+ hours/week",
+  "@fullTimeDescription": {
+    "description": "Full time description"
+  },
+  
+  "partTimeDescription": "Flexible hours",
+  "@partTimeDescription": {
+    "description": "Part time description"
+  },
+  
+  "userInformation": "User Information",
+  "@userInformation": {
+    "description": "User information section header"
+  },
+  
+  "selectImageSource": "Select Image Source",
+  "@selectImageSource": {
+    "description": "Dialog title for image source selection"
+  },
+  
+  "camera": "Camera",
+  "@camera": {
+    "description": "Camera option in image picker"
+  },
+  
+  "gallery": "Gallery",
+  "@gallery": {
+    "description": "Gallery option in image picker"
+  },
+  
+  "documentsProgress": "Documents Progress",
+  "@documentsProgress": {
+    "description": "Documents upload progress section title"
+  },
+  
+  "documentsUploaded": "{uploaded} of {total} documents uploaded",
+  "@documentsUploaded": {
+    "description": "Documents upload progress count",
+    "placeholders": {
+      "uploaded": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "tapToUploadDocument": "Tap to upload document",
+  "@tapToUploadDocument": {
+    "description": "Instruction text for document upload"
+  },
+  
+  "documentUploadedSuccessfully": "Document uploaded successfully",
+  "@documentUploadedSuccessfully": {
+    "description": "Success message for document upload"
+  },
+  
+  "setNewPassword": "Set New Password",
+  "@setNewPassword": {
+    "description": "Reset password screen title"
+  },
+  
+  "passwordMustContain": "Password must contain",
+  "@passwordMustContain": {
+    "description": "Password requirements header"
+  },
+  
+  "atLeast8Characters": "at least 8 characters long.",
+  "@atLeast8Characters": {
+    "description": "Password requirement: minimum length"
+  },
+  
+  "atLeastOneUppercase": "at least one uppercase letter.",
+  "@atLeastOneUppercase": {
+    "description": "Password requirement: uppercase letter"
+  },
+  
+  "atLeastOneLowercase": "at least one lowercase letter.",
+  "@atLeastOneLowercase": {
+    "description": "Password requirement: lowercase letter"
+  },
+  
+  "atLeastOneNumber": "at least one number.",
+  "@atLeastOneNumber": {
+    "description": "Password requirement: number"
+  },
+  
+  "atLeastOneSpecialChar": "at least one special character.",
+  "@atLeastOneSpecialChar": {
+    "description": "Password requirement: special character"
+  },
+  
+  "newPassword": "New password",
+  "@newPassword": {
+    "description": "New password field placeholder"
+  },
+  
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "description": "Confirm password field placeholder"
+  },
+  
+  "saveAndGoToLogin": "Save & Go to Login",
+  "@saveAndGoToLogin": {
+    "description": "Reset password save button text"
+  },
+  
+  "selectYourRole": "Select Your Role",
+  "@selectYourRole": {
+    "description": "Role selection section title"
+  },
+  
+  "student": "Student",
+  "@student": {
+    "description": "Student role option"
+  },
+  
+  "teacher": "Teacher",
+  "@teacher": {
+    "description": "Teacher role option"
+  },
+  
+  "employee": "Employee",
+  "@employee": {
+    "description": "Employee role option"
+  },
+  
+  "security": "Security",
+  "@security": {
+    "description": "Security section title"
+  },
+  
+  "createPassword": "Create Password",
+  "@createPassword": {
+    "description": "Create password field placeholder"
+  },
+  
+  "termsAndConditionsText": "By continuing, you agree to our Terms of Service and Privacy Policy. Your information will be securely stored and used to enhance your ride experience.",
+  "@termsAndConditionsText": {
+    "description": "Terms and conditions disclaimer text"
+  },
+  
+  "continueRegistration": "Continue Registration",
+  "@continueRegistration": {
+    "description": "Continue registration button text"
+  },
+  
+  "helloUser": "Hello, {userName}",
+  "@helloUser": {
+    "description": "Hello greeting with user name",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Muhammad"
+      }
+    }
+  },
+  
+  "welcomeToSamaster": "Welcome to Samaster\nTransportation Services",
+  "@welcomeToSamaster": {
+    "description": "Welcome message on home screen"
+  },
+  
+  "welcomeDescription": "Choose the service that suits you and enjoy a safe, reliable and easy transportation experience.",
+  "@welcomeDescription": {
+    "description": "Welcome card description text"
+  },
+  
+  "studentTransportationShort": "Student\nTransportation",
+  "@studentTransportationShort": {
+    "description": "Student transportation card title"
+  },
+  
+  "teacherTransportation": "Teacher\nTransportation",
+  "@teacherTransportation": {
+    "description": "Teacher transportation card title"
+  },
+  
+  "employeeTransportation": "Employee\nTransportation",
+  "@employeeTransportation": {
+    "description": "Employee transportation card title"
+  },
+  
+  "dailyTransportationShort": "Daily\nTransportation",
+  "@dailyTransportationShort": {
+    "description": "Daily transportation card title"
+  },
+  
+  "inbox": "Inbox",
+  "@inbox": {
+    "description": "Inbox screen title"
+  },
+  
+  "searchMessages": "Search messages",
+  "@searchMessages": {
+    "description": "Search placeholder text for messages"
+  },
+  
+  "messages": "Messages",
+  "@messages": {
+    "description": "Messages tab label"
+  },
+  
+  "request": "Request",
+  "@request": {
+    "description": "Request tab label"
+  },
+  
+  "typing": "Typing...",
+  "@typing": {
+    "description": "Typing indicator text"
+  },
+  
+  "now": "Now",
+  "@now": {
+    "description": "Time indicator for current moment"
+  },
+  
+  "today": "Today",
+  "@today": {
+    "description": "Time indicator for today"
+  },
+  
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "description": "Time indicator for days ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  
+  "weekAgo": "1 week ago",
+  "@weekAgo": {
+    "description": "Time indicator for one week ago"
+  },
+
+  "sendingOtp": "Sending OTP...",
+  "@sendingOtp": {
+    "description": "Sending OTP loading message"
+  },
+
+  "phoneVerifiedAutomatically": "Phone number verified automatically!",
+  "@phoneVerifiedAutomatically": {
+    "description": "Phone number verified automatically message"
+  },
+
+  "invalidPhoneNumber": "The provided phone number is not valid.",
+  "@invalidPhoneNumber": {
+    "description": "Invalid phone number error message"
+  },
+
+  "verificationFailed": "Verification failed: {message}",
+  "@verificationFailed": {
+    "description": "Verification failed error message prefix",
+    "placeholders": {
+      "message": {
+        "type": "String",
+        "description": "The error message"
+      }
+    }
+  },
+
+  "otpSentToPhone": "OTP sent to your phone!",
+  "@otpSentToPhone": {
+    "description": "OTP sent to phone success message"
+  },
+
+  "otpSentToEmail": "OTP sent to your email!",
+  "@otpSentToEmail": {
+    "description": "OTP sent to email success message"
+  },
+
+  "anErrorOccurred": "An error occurred",
+  "@anErrorOccurred": {
+    "description": "An error occurred message"
+  },
+
+  "failedToSendOtpEmail": "Failed to send OTP to your email. Please try again.",
+  "@failedToSendOtpEmail": {
+    "description": "Failed to send OTP to email error message"
+  },
+
+  "failedToSendOtp": "Failed to send OTP",
+  "@failedToSendOtp": {
+    "description": "Failed to send OTP general error message"
+  },
+
+  "verifyingOtp": "Verifying OTP...",
+  "@verifyingOtp": {
+    "description": "Verifying OTP loading message"
+  },
+
+  "phoneVerifiedSuccessfully": "Phone number verified successfully!",
+  "@phoneVerifiedSuccessfully": {
+    "description": "Phone number verified successfully message"
+  },
+
+  "invalidOtp": "Invalid OTP",
+  "@invalidOtp": {
+    "description": "Invalid OTP error title"
+  },
+
+  "invalidOtpMessage": "The verification code from SMS/TOTP is invalid. Please check and enter the correct verification code again.",
+  "@invalidOtpMessage": {
+    "description": "Invalid OTP error message"
+  },
+
+  "verificationFailedTitle": "Verification failed",
+  "@verificationFailedTitle": {
+    "description": "Verification failed error title"
+  },
+
+  "verificationFailedMessage": "An error occurred during verification: {message}",
+  "@verificationFailedMessage": {
+    "description": "Verification failed error message with details",
+    "placeholders": {
+      "message": {
+        "type": "String",
+        "description": "The error message"
+      }
+    }
+  },
+
+  "otpVerifiedSuccessfully": "OTP verified successfully!",
+  "@otpVerifiedSuccessfully": {
+    "description": "OTP verified successfully message"
+  },
+
+  "invalidOtpTryAgain": "Invalid OTP. Please try again.",
+  "@invalidOtpTryAgain": {
+    "description": "Invalid OTP please try again message"
+  },
+
+  "otpExpired": "OTP expired",
+  "@otpExpired": {
+    "description": "OTP expired error title"
+  },
+
+  "otpExpiredMessage": "OTP has expired. Please request a new one.",
+  "@otpExpiredMessage": {
+    "description": "OTP expired error message"
+  },
+
+  "errorTryAgain": "An error occurred. Please try again.",
+  "@errorTryAgain": {
+    "description": "An error occurred please try again message"
+  },
+
+  "emailVerificationSuccess": "Your email has been verified. Your application has been submitted successfully. We will review your application and contact you within 24 hours.",
+  "@emailVerificationSuccess": {
+    "description": "Email verification success message"
+  },
+
+  "emailVerifiedSuccessfullyLoginNow": "Your email has been verified successfully. You can login now.",
+  "@emailVerifiedSuccessfullyLoginNow": {
+    "description": "Email verified successfully login now message"
+  },
+
+  "pleaseEnterValidOtp": "Please enter a valid OTP code",
+  "@pleaseEnterValidOtp": {
+    "description": "Please enter valid OTP message"
+  },
+
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "description": "My Profile screen title"
+  },
+
+  "setting": "Setting",
+  "@setting": {
+    "description": "Setting section title"
+  },
+
+  "appearance": "Appearance",
+  "@appearance": {
+    "description": "Appearance setting label"
+  },
+
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications setting label"
+  },
+
+  "tripCount": "{count} Trip",
+  "@tripCount": {
+    "description": "Trip count display",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+
+  "current": "Current",
+  "@current": {
+    "description": "Current tab label"
+  },
+
+  "editBooking": "Edit Booking",
+  "@editBooking": {
+    "description": "Edit booking button text"
+  },
+
+  "contactDriver": "Contact Driver",
+  "@contactDriver": {
+    "description": "Contact driver button text"
+  },
+
+  "viewReview": "View Review",
+  "@viewReview": {
+    "description": "View review button text"
+  },
+
+  "addReview": "Add Review",
+  "@addReview": {
+    "description": "Add review button text"
+  },
+
+  "bookAgain": "Book Again",
+  "@bookAgain": {
+    "description": "Book again button text"
+  },
+
+  "contactSupport": "Contact Support",
+  "@contactSupport": {
+    "description": "Contact support button text"
+  },
+
+  "active": "Active",
+  "@active": {
+    "description": "Active status label"
+  },
+
+  "noBookingsFound": "No {status} bookings",
+  "@noBookingsFound": {
+    "description": "No bookings found message",
+    "placeholders": {
+      "status": {
+        "type": "String",
+        "example": "pending"
+      }
+    }
+  },
+
+  "noBookingsMessage": "Your {status} bookings will appear here",
+  "@noBookingsMessage": {
+    "description": "No bookings message",
+    "placeholders": {
+      "status": {
+        "type": "String",
+        "example": "pending"
+      }
+    }
+  },
+
+  "vehicleInfo": "Vehicle Information",
+  "@vehicleInfo": {
+    "description": "Vehicle information section header"
+  },
+
+  "licensePlate": "License Plate",
+  "@licensePlate": {
+    "description": "License plate label"
+  },
+
+  "basePrice": "Base Price",
+  "@basePrice": {
+    "description": "Base price label"
+  },
+
+  "finalPrice": "Final Price",
+  "@finalPrice": {
+    "description": "Final price label"
+  },
+
+  "cost": "Cost",
+  "@cost": {
+    "description": "Cost section header"
+  },
+
+  "yourRatingAndReview": "Your Rating & Review",
+  "@yourRatingAndReview": {
+    "description": "Rating and review section header"
+  },
+
+  "overallRating": "Overall Rating",
+  "@overallRating": {
+    "description": "Overall rating label"
+  },
+
+  "driverCommunicationRating": "Driver Communication Rating",
+  "@driverCommunicationRating": {
+    "description": "Driver communication rating label"
+  },
+
+  "vehicleCondition": "Vehicle Condition",
+  "@vehicleCondition": {
+    "description": "Vehicle condition rating label"
+  },
+
+  "yourReview": "Your Review",
+  "@yourReview": {
+    "description": "Your review section header"
+  },
+
+  "passwordChangedSuccessfully": "Your password has been changed successfully.",
+  "@passwordChangedSuccessfully": {
+    "description": "Password change success message"
+  },
+
+  "passwordMustContain": "Password must contain",
+  "@passwordMustContain": {
+    "description": "Password requirements header"
+  },
+
+  "currentPasswordRequired": "Current password is required",
+  "@currentPasswordRequired": {
+    "description": "Current password validation error"
+  },
+
+  "newPasswordRequired": "New password is required",
+  "@newPasswordRequired": {
+    "description": "New password validation error"
+  },
+
+  "passwordMinLength": "Password must be at least 8 characters",
+  "@passwordMinLength": {
+    "description": "Password minimum length error"
+  },
+
+  "passwordComplexityError": "Password must contain uppercase, lowercase, number and special character",
+  "@passwordComplexityError": {
+    "description": "Password complexity validation error"
+  },
+
+  "confirmPasswordRequired": "Please confirm your new password",
+  "@confirmPasswordRequired": {
+    "description": "Confirm password validation error"
+  },
+
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch error"
+  },
+
+  "changingPassword": "Changing password...",
+  "@changingPassword": {
+    "description": "Password change loading message"
+  },
+
+  "noUserLoggedIn": "No user logged in",
+  "@noUserLoggedIn": {
+    "description": "No user error message"
+  },
+
+  "userEmailNotAvailable": "User email not available",
+  "@userEmailNotAvailable": {
+    "description": "User email error message"
+  },
+
+  "currentPasswordIncorrect": "Current password is incorrect",
+  "@currentPasswordIncorrect": {
+    "description": "Wrong current password error"
+  },
+
+  "recentLoginRequired": "Please log out and log in again before changing your password",
+  "@recentLoginRequired": {
+    "description": "Recent login required error"
+  },
+
+  "passwordChangeFailedTitle": "Failed to change password",
+  "@passwordChangeFailedTitle": {
+    "description": "Password change failure dialog title"
+  },
+
+  "passwordChangeFailedMessage": "Your current password is incorrect",
+  "@passwordChangeFailedMessage": {
+    "description": "Password change failure dialog message"
+  },
+
+  "passwordMustContain": "Password must contain",
+  "@passwordMustContain": {
+    "description": "Header for password requirements"
+  },
+
+  "atLeast8Characters": "at least 8 characters long.",
+  "@atLeast8Characters": {
+    "description": "Password requirement: minimum length"
+  },
+
+  "atLeastOneUppercase": "at least one uppercase letter.",
+  "@atLeastOneUppercase": {
+    "description": "Password requirement: uppercase letter"
+  },
+
+  "atLeastOneLowercase": "at least one lowercase letter.",
+  "@atLeastOneLowercase": {
+    "description": "Password requirement: lowercase letter"
+  },
+
+  "atLeastOneNumber": "at least one number.",
+  "@atLeastOneNumber": {
+    "description": "Password requirement: number"
+  },
+
+  "atLeastOneSpecialChar": "at least one special character.",
+  "@atLeastOneSpecialChar": {
+    "description": "Password requirement: special character"
+  },
+
+  "school": "School",
+  "@school": {
+    "description": "School address type"
+  },
+
+  "university": "University",
+  "@university": {
+    "description": "University address type"
+  },
+
+  "others": "Others",
+  "@others": {
+    "description": "Others address type"
+  },
+
+  "addressType": "Address Type",
+  "@addressType": {
+    "description": "Address type selection label"
+  },
+
+  "locationInformation": "Location Information",
+  "@locationInformation": {
+    "description": "Location information header"
+  },
+
+  "addressInformation": "Address Information",
+  "@addressInformation": {
+    "description": "Address information header"
+  },
+
+  "setPickupLocationSchedule": "Set your pickup location and schedule",
+  "@setPickupLocationSchedule": {
+    "description": "Subtitle for daily transport location setup"
+  },
+
+  "provideLocationDetails": "Please provide your location details",
+  "@provideLocationDetails": {
+    "description": "Subtitle for address information"
+  },
+
+  "city": "City",
+  "@city": {
+    "description": "City field label"
+  },
+
+  "enterYourCity": "Enter your city",
+  "@enterYourCity": {
+    "description": "City field hint"
+  },
+
+  "areaDistrict": "Area / District",
+  "@areaDistrict": {
+    "description": "Area/District field label"
+  },
+
+  "detailedAddress": "Detailed Address",
+  "@detailedAddress": {
+    "description": "Detailed address field label"
+  },
+
+  "detailedAddressHint": "Detailed address",
+  "@detailedAddressHint": {
+    "description": "Detailed address field hint"
+  },
+
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "description": "Date picker label"
+  },
+
+  "startTime": "Start Time",
+  "@startTime": {
+    "description": "Start time picker label"
+  },
+
+  "endTime": "End Time",
+  "@endTime": {
+    "description": "End time picker label"
+  },
+
+  "universityName": "University Name",
+  "@universityName": {
+    "description": "University name field label"
+  },
+
+  "schoolName": "School Name",
+  "@schoolName": {
+    "description": "School name field label"
+  },
+
+  "institutionName": "Institution Name",
+  "@institutionName": {
+    "description": "Institution name field label"
+  },
+
+  "neighborhood": "Neighborhood",
+  "@neighborhood": {
+    "description": "Neighborhood field label"
+  },
+
+  "enterNeighborhoodArea": "Enter neighborhood area",
+  "@enterNeighborhoodArea": {
+    "description": "Neighborhood field hint"
+  },
+
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue button label"
+  },
+
+  "studentTransport": "Student Transport",
+  "@studentTransport": {
+    "description": "Student transport app bar title"
+  },
+
+  "teacherTransport": "Teacher Transport",
+  "@teacherTransport": {
+    "description": "Teacher transport app bar title"
+  },
+
+  "employeeTransport": "Employee Transport",
+  "@employeeTransport": {
+    "description": "Employee transport app bar title"
+  },
+
+  "dailyTransport": "Daily Transport",
+  "@dailyTransport": {
+    "description": "Daily transport app bar title"
+  },
+
+  "stepXOfY": "Step {currentStep} of {totalSteps}",
+  "@stepXOfY": {
+    "description": "Step indicator text",
+    "placeholders": {
+      "currentStep": {
+        "type": "int"
+      },
+      "totalSteps": {
+        "type": "int"
+      }
+    }
+  },
+
+  "addressDetails": "Address Details",
+  "@addressDetails": {
+    "description": "Step 1 label in stepper widget"
+  },
+
+  "driverSelection": "Date Selection",
+  "@driverSelection": {
+    "description": "Step 2 label in stepper widget"
+  },
+
+  "additionalDetails": "Additional Details",
+  "@additionalDetails": {
+    "description": "Step 3 label in stepper widget"
+  },
+
+  "bookingDetails": "Booking Details",
+  "@bookingDetails": {
+    "description": "Booking details page title"
+  },
+
+  "driverName": "Driver Name",
+  "@driverName": {
+    "description": "Default driver name placeholder"
+  },
+
+  "student": "Student",
+  "@student": {
+    "description": "Student role"
+  },
+
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating label"
+  },
+
+  "km": "km",
+  "@km": {
+    "description": "Kilometer unit"
+  },
+
+  "type": "Type",
+  "@type": {
+    "description": "Type label"
+  },
+
+  "pickupLocation": "Pickup Location",
+  "@pickupLocation": {
+    "description": "Pickup location label"
+  },
+
+  "destination": "Destination",
+  "@destination": {
+    "description": "Destination label"
+  },
+
+  "serviceType": "Service Type",
+  "@serviceType": {
+    "description": "Service type label"
+  },
+
+  "notSpecified": "Not specified",
+  "@notSpecified": {
+    "description": "Not specified placeholder"
+  },
+
+  "fare": "Fare",
+  "@fare": {
+    "description": "Fare label"
+  },
+
+  "bookingStatus": "Booking Status",
+  "@bookingStatus": {
+    "description": "Booking status label"
+  },
+
+  "pickupTime": "Pickup Time",
+  "@pickupTime": {
+    "description": "Pickup time label"
+  },
+
+  "tripType": "Trip Type",
+  "@tripType": {
+    "description": "Trip type label"
+  },
+
+  "pickupDate": "Pickup Date",
+  "@pickupDate": {
+    "description": "Pickup date label"
+  },
+
+  "workSchedule": "Work Schedule",
+  "@workSchedule": {
+    "description": "Work schedule label"
+  },
+
+  "driverGender": "Driver Gender",
+  "@driverGender": {
+    "description": "Driver gender label"
+  },
+
+  "any": "Any",
+  "@any": {
+    "description": "Any option"
+  },
+
+  "subscriptionPlan": "Subscription Plan",
+  "@subscriptionPlan": {
+    "description": "Subscription plan label"
+  },
+
+  "cost": "Cost",
+  "@cost": {
+    "description": "Cost section header"
+  },
+
+  "hours": "Hours:",
+  "@hours": {
+    "description": "Hours label"
+  },
+
+  "pricePerHour": "Price per Hour:",
+  "@pricePerHour": {
+    "description": "Price per hour label"
+  },
+
+  "riyal": "Riyal",
+  "@riyal": {
+    "description": "Riyal currency"
+  },
+
+  "basePrice": "Base Price:",
+  "@basePrice": {
+    "description": "Base price label"
+  },
+
+  "finalPrice": "Final Price:",
+  "@finalPrice": {
+    "description": "Final price label"
+  },
+
+  "masterCard": "Master Card",
+  "@masterCard": {
+    "description": "Master Card payment method"
+  },
+
+  "confirmBooking": "Confirm Booking",
+  "@confirmBooking": {
+    "description": "Confirm booking button"
+  },
+
+  "area": "Area",
+  "@area": {
+    "description": "Area placeholder"
+  },
+
+  "institution": "Institution",
+  "@institution": {
+    "description": "Institution placeholder"
+  },
+
+  "vehicle": "Vehicle",
+  "@vehicle": {
+    "description": "Vehicle placeholder"
+  },
+
+  "serviceVehicle": "Service Vehicle",
+  "@serviceVehicle": {
+    "description": "Service vehicle label"
+  },
+
+  "asPerSchedule": "As per schedule",
+  "@asPerSchedule": {
+    "description": "As per schedule placeholder"
+  },
+
+  "draft": "Draft",
+  "@draft": {
+    "description": "Draft status"
+  },
+
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+
+  "confirmed": "Confirmed",
+  "@confirmed": {
+    "description": "Confirmed status"
+  },
+
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status"
+  },
+
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+
+  "congratulation": "Congratulation!",
+  "@congratulation": {
+    "description": "Congratulation dialog title"
+  },
+
+  "bookingSuccessMessage": "Your Booking has been successfully Booked. You will receive a notification and the driver you selected will contact you.",
+  "@bookingSuccessMessage": {
+    "description": "Booking success message"
+  },
+
+  "goToBooking": "Go to Booking",
+  "@goToBooking": {
+    "description": "Go to booking button"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  },
+
+  "selectDriverOnMap": "Select Driver on Map",
+  "@selectDriverOnMap": {
+    "description": "Header text for driver selection section"
+  },
+
+  "selectDriverFromMap": "Select a driver from the map to continue.",
+  "@selectDriverFromMap": {
+    "description": "Instruction text for driver selection"
+  },
+
+  "search": "Search",
+  "@search": {
+    "description": "Label for search section"
+  },
+
+  "kmUnit": "km",
+  "@kmUnit": {
+    "description": "Unit for kilometers"
+  },
+
+  "availableDrivers": "Available Drivers",
+  "@availableDrivers": {
+    "description": "Section title for driver list"
+  },
+
+  "results": "Results",
+  "@results": {
+    "description": "Results count suffix"
+  },
+
+  "driverRatingText": "{rating} (rating)",
+  "@driverRatingText": {
+    "description": "Driver rating display text",
+    "placeholders": {
+      "rating": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+
+  "driverRole": "Student",
+  "@driverRole": {
+    "description": "Default driver role text"
+  },
+
+  "additionalDetails": "Additional Details",
+  "@additionalDetails": {
+    "description": "Additional details section title"
+  },
+
+  "pleaseProvideAdditionalDetails": "Please provide additional details.",
+  "@pleaseProvideAdditionalDetails": {
+    "description": "Additional details instruction text"
+  },
+
+  "tripType": "Trip Type",
+  "@tripType": {
+    "description": "Trip type section title"
+  },
+
+  "oneWay": "One Way",
+  "@oneWay": {
+    "description": "One way trip option"
+  },
+
+  "singleDirectionTrip": "Single direction trip",
+  "@singleDirectionTrip": {
+    "description": "One way trip description"
+  },
+
+  "returnOnly": "Return Only",
+  "@returnOnly": {
+    "description": "Return only trip option"
+  },
+
+  "returnOnlyTrip": "Return Only trip",
+  "@returnOnlyTrip": {
+    "description": "Return only trip description"
+  },
+
+  "roundTrip": "Round Trip",
+  "@roundTrip": {
+    "description": "Round trip option"
+  },
+
+  "bothDirectionsIncluded": "Both directions included",
+  "@bothDirectionsIncluded": {
+    "description": "Round trip description"
+  },
+
+  "transportationOptions": "Transportation Options",
+  "@transportationOptions": {
+    "description": "Transportation options section title"
+  },
+
+  "privateTransport": "Private Transport",
+  "@privateTransport": {
+    "description": "Private transport option"
+  },
+
+  "yourOwnPrivateVehicle": "Your own private vehicle",
+  "@yourOwnPrivateVehicle": {
+    "description": "Private transport description"
+  },
+
+  "subscriber": "Subscriber",
+  "@subscriber": {
+    "description": "Subscriber option"
+  },
+
+  "joinSubscriptionService": "Join subscription service",
+  "@joinSubscriptionService": {
+    "description": "Subscriber description"
+  },
+
+  "male": "Male",
+  "@male": {
+    "description": "Male gender option"
+  },
+
+  "female": "Female",
+  "@female": {
+    "description": "Female gender option"
+  },
+
+  "any": "Any",
+  "@any": {
+    "description": "Any gender option"
+  },
+
+  "monthly": "Monthly",
+  "@monthly": {
+    "description": "Monthly subscription option"
+  },
+
+  "quarterly": "Quarterly",
+  "@quarterly": {
+    "description": "Quarterly subscription option"
+  },
+
+  "yearly": "Yearly",
+  "@yearly": {
+    "description": "Yearly subscription option"
+  },
+
+  "workSchedule": "Work Schedule",
+  "@workSchedule": {
+    "description": "Work schedule section title"
+  },
+
+  "morning": "Morning",
+  "@morning": {
+    "description": "Morning schedule option"
+  },
+
+  "evening": "Evening",
+  "@evening": {
+    "description": "Evening schedule option"
+  },
+
+  "flexible": "Flexible",
+  "@flexible": {
+    "description": "Flexible schedule option"
+  },
+
+  "finalPrice": "Final Price",
+  "@finalPrice": {
+    "description": "Final price section title"
+  },
+
+  "riyal": "Riyal",
+  "@riyal": {
+    "description": "Currency unit"
+  },
+
+  "vehicleType": "Vehicle Type",
+  "@vehicleType": {
+    "description": "Vehicle type selection title"
+  },
+
+  "car": "Car",
+  "@car": {
+    "description": "Car vehicle option"
+  },
+
+  "bus": "Bus", 
+  "@bus": {
+    "description": "Bus vehicle option"
+  },
+
+  "startDate": "Start Date",
+  "@startDate": {
+    "description": "Start date field label"
+  },
+
+  "startTime": "Start Time",
+  "@startTime": {
+    "description": "Start time field label"
+  },
+
+  "returnTime": "Return Time",
+  "@returnTime": {
+    "description": "Return time field label"
+  },
+
+  "cost": "Cost",
+  "@cost": {
+    "description": "Cost section title"
+  },
+
+  "basePrice": "Base Price:",
+  "@basePrice": {
+    "description": "Base price label"
+  },
+
+  "totalEstimate": "Total Estimate:",
+  "@totalEstimate": {
+    "description": "Total estimate label"
+  },
+
+  "driverGender": "Driver's Gender",
+  "@driverGender": {
+    "description": "Driver gender selection title"
+  },
+
+  "subscriptionPlan": "Subscription Plan",
+  "@subscriptionPlan": {
+    "description": "Subscription plan selection title"
+  },
+
+  "transportationSchedule": "Transportation Schedule",
+  "@transportationSchedule": {
+    "description": "Transportation schedule section title"
+  },
+
+  "markAllRead": "Mark All Read",
+  "@markAllRead": {
+    "description": "Mark all notifications as read button text"
+  },
+
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Yesterday time label for notifications"
+  },
+
+  "bookingUpdate": "Booking Update",
+  "@bookingUpdate": {
+    "description": "Booking update notification title"
+  },
+
+  "rideInProgress": "Ride in Progress",
+  "@rideInProgress": {
+    "description": "Ride in progress notification title"
+  },
+
+  "rideCompleted": "Ride Completed",
+  "@rideCompleted": {
+    "description": "Ride completed notification title"
+  },
+
+  "rideRescheduledMessage": "Your ride with driver {driverName} has been rescheduled.",
+  "@rideRescheduledMessage": {
+    "description": "Ride rescheduled notification message",
+    "placeholders": {
+      "driverName": {
+        "type": "String",
+        "description": "The name of the driver"
+      }
+    }
+  },
+
+  "driverAwayMessage": "Your driver {driverName} is {minutes} minutes away.",
+  "@driverAwayMessage": {
+    "description": "Driver approaching notification message",
+    "placeholders": {
+      "driverName": {
+        "type": "String",
+        "description": "The name of the driver"
+      },
+      "minutes": {
+        "type": "String",
+        "description": "Number of minutes"
+      }
+    }
+  },
+
+  "rideEndedSuccessfullyMessage": "Your ride with driver {driverName} has ended successfully.",
+  "@rideEndedSuccessfullyMessage": {
+    "description": "Ride ended successfully notification message",
+    "placeholders": {
+      "driverName": {
+        "type": "String",
+        "description": "The name of the driver"
+      }
+    }
+  },
+
+  "cancellationReason": "Cancellation Reason",
+  "@cancellationReason": {
+    "description": "Cancellation reason screen title"
+  },
+
+  "whyAreyouCanceling": "Why are you canceling?",
+  "@whyAreyouCanceling": {
+    "description": "Cancellation reason question"
+  },
+
+  "feedbackHelpsImprove": "Your feedback helps us improve.",
+  "@feedbackHelpsImprove": {
+    "description": "Feedback improvement message"
+  },
+
+  "driverTakingTooLong": "Driver taking too long to arrive",
+  "@driverTakingTooLong": {
+    "description": "Cancellation reason - driver taking too long"
+  },
+
+  "foundAnotherRide": "Found another ride",
+  "@foundAnotherRide": {
+    "description": "Cancellation reason - found another ride"
+  },
+
+  "changeOfPlans": "Change of plans",
+  "@changeOfPlans": {
+    "description": "Cancellation reason - change of plans"
+  },
+
+  "incorrectPickupLocation": "Incorrect pickup location",
+  "@incorrectPickupLocation": {
+    "description": "Cancellation reason - incorrect pickup location"
+  },
+
+  "driverAskedToCancel": "Driver asked me to cancel",
+  "@driverAskedToCancel": {
+    "description": "Cancellation reason - driver asked to cancel"
+  },
+
+  "driverBehavior": "Driver behavior",
+  "@driverBehavior": {
+    "description": "Cancellation reason - driver behavior"
+  },
+
+  "other": "Other",
+  "@other": {
+    "description": "Other option"
+  },
+
+  "submitCancelRide": "Submit & Cancel Ride",
+  "@submitCancelRide": {
+    "description": "Submit and cancel ride button text"
+  },
+
+  "selectCancellationReason": "Select a cancellation reason",
+  "@selectCancellationReason": {
+    "description": "Error message for no cancellation reason selected"
+  },
+
+  "cancelRideRequest": "Cancel Ride Request?",
+  "@cancelRideRequest": {
+    "description": "Cancel ride request dialog title"
+  },
+
+  "cancelRideConfirmation": "Are you sure you want to cancel this ride request? We will stop searching for a driver.",
+  "@cancelRideConfirmation": {
+    "description": "Cancel ride confirmation message"
+  },
+
+  "yesCancel": "Yes, Cancel",
+  "@yesCancel": {
+    "description": "Yes cancel button text"
+  },
+
+  "noDontCancel": "No, Don't Cancel",
+  "@noDontCancel": {
+    "description": "No don't cancel button text"
+  },
+
+  "rideCancelled": "Ride Cancelled!",
+  "@rideCancelled": {
+    "description": "Ride cancelled success title"
+  },
+
+  "rideCancelledMessage": "Your ride has been cancelled successfully. We appreciate your feedback and will work to improve our service.",
+  "@rideCancelledMessage": {
+    "description": "Ride cancelled success message"
+  },
+
+  "okay": "Okay",
+  "@okay": {
+    "description": "Okay button text"
+  },
+
+  "addNewPayment": "Add New Payment",
+  "@addNewPayment": {
+    "description": "Add new payment method button text"
+  },
+
+  "savedCards": "Saved Cards",
+  "@savedCards": {
+    "description": "Saved cards section title"
+  },
+
+  "googlePay": "Google Pay",
+  "@googlePay": {
+    "description": "Google Pay payment method"
+  },
+
+  "applePay": "Apple Pay",
+  "@applePay": {
+    "description": "Apple Pay payment method"
+  },
+
+  "paypal": "Paypal",
+  "@paypal": {
+    "description": "PayPal payment method"
+  },
+
+  "confirmPayment": "Confirm Payment",
+  "@confirmPayment": {
+    "description": "Confirm payment button text"
+  },
+
+  "selectNewPaymentMethod": "Select new payment method",
+  "@selectNewPaymentMethod": {
+    "description": "Select new payment method title"
+  },
+
+  "cardHolderName": "Card Holder Name",
+  "@cardHolderName": {
+    "description": "Card holder name field label"
+  },
+
+  "cardNumber": "Card Number",
+  "@cardNumber": {
+    "description": "Card number field label"
+  },
+
+  "expiryDate": "Expiry Date",
+  "@expiryDate": {
+    "description": "Expiry date field label"
+  },
+
+  "cvv": "CVV (***)",
+  "@cvv": {
+    "description": "CVV field label"
+  },
+
+  "proceedToPayment": "Proceed To Payment",
+  "@proceedToPayment": {
+    "description": "Proceed to payment button text"
+  },
+
+  "howCanIBookTrip": "How can I book a trip?",
+  "@howCanIBookTrip": {
+    "description": "FAQ question about booking a trip"
+  },
+
+  "bookTripAnswer": "You can book a trip by choosing the appropriate service type (e.g., student transport, teacher transport, etc.), then determining your location and the desired destination.",
+  "@bookTripAnswer": {
+    "description": "FAQ answer about booking a trip"
+  },
+
+  "howCanIPay": "How can I pay?",
+  "@howCanIPay": {
+    "description": "FAQ question about payment methods"
+  },
+
+  "paymentMethodsAnswer": "We provide several payment methods: bank cards, electronic wallet, or cash payment.",
+  "@paymentMethodsAnswer": {
+    "description": "FAQ answer about payment methods"
+  },
+
+  "howContactCustomerService": "How can I contact customer service?",
+  "@howContactCustomerService": {
+    "description": "FAQ question about contacting customer service"
+  },
+
+  "contactServiceAnswer": "You can contact us via:\nPhone: 92000000\nEmail: support@semester.com",
+  "@contactServiceAnswer": {
+    "description": "FAQ answer about contacting customer service"
+  },
+
+  "howCancelRide": "How can I cancel my ride?",
+  "@howCancelRide": {
+    "description": "FAQ question about canceling rides"
+  },
+
+  "cancelRideAnswer": "You can cancel your ride by going to your active rides and selecting the cancel option. Please note that cancellation fees may apply depending on the timing.",
+  "@cancelRideAnswer": {
+    "description": "FAQ answer about canceling rides"
+  },
+
+  "whatSafetyMeasures": "What are the safety measures?",
+  "@whatSafetyMeasures": {
+    "description": "FAQ question about safety measures"
+  },
+
+  "safetyMeasuresAnswer": "All our drivers are verified and background checked. We provide real-time tracking, emergency contacts, and 24/7 support for your safety.",
+  "@safetyMeasuresAnswer": {
+    "description": "FAQ answer about safety measures"
+  },
+
+  "howReportIssue": "How do I report an issue?",
+  "@howReportIssue": {
+    "description": "FAQ question about reporting issues"
+  },
+
+  "reportIssueAnswer": "You can report issues through the app by going to Settings > Report Issue, or contact our customer service directly.",
+  "@reportIssueAnswer": {
+    "description": "FAQ answer about reporting issues"
+  },
+
+  "needMoreHelp": "Need More Help?",
+  "@needMoreHelp": {
+    "description": "Contact section title"
+  },
+
+  "phoneContact": "Phone: 92000000",
+  "@phoneContact": {
+    "description": "Phone contact information"
+  },
+
+  "emailContact": "Email: support@semester.com",
+  "@emailContact": {
+    "description": "Email contact information"
+  },
+
+  "addReview": "Add Review",
+  "@addReview": {
+    "description": "Add review screen title"
+  },
+
+  "submitReview": "Submit Review",
+  "@submitReview": {
+    "description": "Submit review button text"
+  },
+
+  "reviewSubmitted": "Review Submitted!",
+  "@reviewSubmitted": {
+    "description": "Review submitted success dialog title"
+  },
+
+  "reviewSubmittedMessage": "Thank you for your feedback! Your review has been submitted successfully and will help other riders make informed decisions.",
+  "@reviewSubmittedMessage": {
+    "description": "Review submitted success message"
+  },
+
+  "great": "Great!",
+  "@great": {
+    "description": "Great button text"
+  },
+
+  "driverInformation": "Driver Information",
+  "@driverInformation": {
+    "description": "Driver information section title"
+  },
+
+  "driver": "Driver",
+  "@driver": {
+    "description": "Driver label"
+  },
+
+  "reviewGuidelines": "Review Guidelines",
+  "@reviewGuidelines": {
+    "description": "Review guidelines section title"
+  },
+
+  "guidelinePublic": "Your review will be public and visible to other users",
+  "@guidelinePublic": {
+    "description": "Review guideline about public visibility"
+  },
+
+  "guidelineHonest": "Be honest and fair in your rating",
+  "@guidelineHonest": {
+    "description": "Review guideline about honesty"
+  },
+
+  "guidelineServiceQuality": "Focus on the service quality and safety",
+  "@guidelineServiceQuality": {
+    "description": "Review guideline about service quality"
+  },
+
+  "guidelineRespectful": "Keep your review respectful and constructive",
+  "@guidelineRespectful": {
+    "description": "Review guideline about being respectful"
+  },
+
+  "driverCommunicationRating": "Driver Communication Rating",
+  "@driverCommunicationRating": {
+    "description": "Driver communication rating label"
+  },
+
+  "vehicleCondition": "Vehicle Condition",
+  "@vehicleCondition": {
+    "description": "Vehicle condition rating label"
+  },
+
+  "addReviewComment": "Add Review / Comment",
+  "@addReviewComment": {
+    "description": "Add review comment section title"
+  },
+
+  "reviewPlaceholder": "Tell us about your experience with this ride...",
+  "@reviewPlaceholder": {
+    "description": "Review text field placeholder"
+  },
+
+  "reviews": "reviews",
+  "@reviews": {
+    "description": "Reviews count label"
+  },
+
+  "driverRatingFormat": "{driver} • {rating} ⭐ ({reviewCount} {reviews})",
+  "@driverRatingFormat": {
+    "description": "Format for displaying driver rating and review count",
+    "placeholders": {
+      "driver": {
+        "type": "String"
+      },
+      "rating": {
+        "type": "String"
+      },
+      "reviewCount": {
+        "type": "String"
+      },
+      "reviews": {
+        "type": "String"
+      }
+    }
+  },
+
+  "helloDriver": "Hello, {name}",
+  "@helloDriver": {
+    "description": "Greeting for driver on home screen",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating text label"
+  },
+  "totalBooking": "Total Booking",
+  "@totalBooking": {
+    "description": "Total booking stats card title"
+  },
+  "upcoming": "Upcoming",
+  "@upcoming": {
+    "description": "Upcoming bookings stats card title"
+  },
+  "totalEarning": "Total Earning",
+  "@totalEarning": {
+    "description": "Total earnings stats card title"
+  },
+  "newWithdraw": "New Withdraw",
+  "@newWithdraw": {
+    "description": "New withdraw stats card title"
+  },
+  "newBookingRequests": "New Booking Requests",
+  "@newBookingRequests": {
+    "description": "New booking requests section title"
+  },
+  "noNewBookingRequests": "No new booking requests",
+  "@noNewBookingRequests": {
+    "description": "Empty state title when no booking requests"
+  },
+  "newRideRequestsWillAppear": "New ride requests will appear here",
+  "@newRideRequestsWillAppear": {
+    "description": "Empty state subtitle for booking requests"
+  },
+
+  "defaultLocationText": "Building D-3, Main Campus, Madinah, 41511",
+  "@defaultLocationText": {
+    "description": "Default location text for driver home screen"
+  },
+
+  "postedMinutesAgo": "Posted 2 Mint ago",
+  "@postedMinutesAgo": {
+    "description": "Text showing when booking was posted"
+  },
+  "pricing": "Pricing",
+  "@pricing": {
+    "description": "Pricing label for booking card"
+  },
+  "alRajhiScheme": "Al Rajhi Scheme",
+  "@alRajhiScheme": {
+    "description": "Al Rajhi Scheme location name"
+  },
+  "kauUniversity": "KAU - King Abdulaziz University",
+  "@kauUniversity": {
+    "description": "King Abdulaziz University location name"
+  },
+  "tripWay": "Trip Way",
+  "@tripWay": {
+    "description": "Trip way label"
+  },
+  "roundTrip": "Round Trip",
+  "@roundTrip": {
+    "description": "Round trip option"
+  },
+  "startTime": "Start Time",
+  "@startTime": {
+    "description": "Start time label"
+  },
+  "startDate": "Start Date",
+  "@startDate": {
+    "description": "Start date label"
+  },
+  "returnTime": "Return Time",
+  "@returnTime": {
+    "description": "Return time label"
+  },
+  "acceptBooking": "Accept Booking",
+  "@acceptBooking": {
+    "description": "Accept booking button text"
+  },
+  "declineBooking": "Decline Booking",
+  "@declineBooking": {
+    "description": "Decline booking button text"
+  },
+  "chatWithUser": "Chat with user",
+  "@chatWithUser": {
+    "description": "Chat with user button text"
+  },
+  "closeBooking": "Close Booking",
+  "@closeBooking": {
+    "description": "Close booking button text"
+  },
+  "student": "Student",
+  "@student": {
+    "description": "Student role text"
+  },
+  "employee": "Employee",
+  "@employee": {
+    "description": "Employee role text"
+  },
+  "user": "User",
+  "@user": {
+    "description": "User role text"
+  },
+  "active": "Active",
+  "@active": {
+    "description": "Active status text"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status text"
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status text"
+  },
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled status text"
+  },
+  "theStudent": "the student",
+  "@theStudent": {
+    "description": "Text for referring to student"
+  },
+  "theEmployee": "the employee",
+  "@theEmployee": {
+    "description": "Text for referring to employee"
+  },
+  "theUser": "the user",
+  "@theUser": {
+    "description": "Text for referring to user"
+  },
+
+  "myBookings": "My Bookings",
+  "@myBookings": {
+    "description": "My bookings screen title"
+  },
+  "current": "Current",
+  "@current": {
+    "description": "Current bookings tab"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous bookings tab"
+  },
+  "noCurrentBookings": "No current bookings",
+  "@noCurrentBookings": {
+    "description": "Empty state for no current bookings"
+  },
+  "noPreviousBookings": "No previous bookings",
+  "@noPreviousBookings": {
+    "description": "Empty state for no previous bookings"
+  },
+  "currentBookingsWillAppear": "Your current bookings will appear here",
+  "@currentBookingsWillAppear": {
+    "description": "Empty state subtitle for current bookings"
+  },
+  "previousBookingsWillAppear": "Your previous bookings will appear here",
+  "@previousBookingsWillAppear": {
+    "description": "Empty state subtitle for previous bookings"
+  },
+
+  "flagAsInappropriate": "Flag as Inappropriate",
+  "@flagAsInappropriate": {
+    "description": "Flag inappropriate content screen title"
+  },
+  
+  "typeOfIssue": "Type of Issue",
+  "@typeOfIssue": {
+    "description": "Section title for report issue types"
+  },
+  
+  "reportCategorizeHelper": "This helps categorize the report for faster processing by your support team.",
+  "@reportCategorizeHelper": {
+    "description": "Helper text explaining report categorization"
+  },
+  
+  "safetyConcern": "Safety Concern",
+  "@safetyConcern": {
+    "description": "Safety concern report type"
+  },
+  
+  "safetyConcernSubtitle": "(e.g., unsafe pick-up/drop-off location, dangerous request)",
+  "@safetyConcernSubtitle": {
+    "description": "Safety concern report type subtitle"
+  },
+  
+  "navigationRouteIssue": "Navigation/Route Issue",
+  "@navigationRouteIssue": {
+    "description": "Navigation or route issue report type"
+  },
+  
+  "invalidPickupDropoff": "Invalid Pickup/Drop-off",
+  "@invalidPickupDropoff": {
+    "description": "Invalid pickup or drop-off location report type"
+  },
+  
+  "noShowPassenger": "No-Show (Passenger didn't show up)",
+  "@noShowPassenger": {
+    "description": "Passenger no-show report type"
+  },
+  
+  "suspiciousActivity": "Suspicious Activity",
+  "@suspiciousActivity": {
+    "description": "Suspicious activity report type"
+  },
+  
+  "submitReport": "Submit Report",
+  "@submitReport": {
+    "description": "Submit report button text"
+  },
+  
+  "pleaseSelectReportReason": "Please select a report reason",
+  "@pleaseSelectReportReason": {
+    "description": "Error message when no report reason is selected"
+  },
+  
+  "submitReportQuestion": "Submit Report?",
+  "@submitReportQuestion": {
+    "description": "Confirmation dialog title for submitting report"
+  },
+  
+  "submitReportConfirmation": "Are you sure you want to submit this report? Our support team will review it and take appropriate action.",
+  "@submitReportConfirmation": {
+    "description": "Confirmation dialog message for submitting report"
+  },
+  
+  "yesSubmitReport": "Yes, Submit Report",
+  "@yesSubmitReport": {
+    "description": "Confirm submit report button text"
+  },
+  
+  "reportSubmitted": "Report Submitted!",
+  "@reportSubmitted": {
+    "description": "Success dialog title after report submission"
+  },
+  
+  "reportSubmittedSuccessfully": "Your report has been submitted successfully. Our support team will review it and take appropriate action.",
+  "@reportSubmittedSuccessfully": {
+    "description": "Success dialog message after report submission"
+  },
+  
+  "reportCategorizeHelper": "This helps categorize the report for faster processing by your support team.",
+  "@reportCategorizeHelper": {
+    "description": "Helper text explaining why issue type selection is needed"
+  },
+  
+  "totalDistance": "Total Distance",
+  "@totalDistance": {
+    "description": "Total distance label"
+  },
+  
+  "transportationType": "Transportations Type",
+  "@transportationType": {
+    "description": "Transportation type label"
+  },
+  
+  "groupTransport": "Group Transport",
+  "@groupTransport": {
+    "description": "Group transport option"
+  },
+  
+  "estimatedDuration": "Estimated Duration",
+  "@estimatedDuration": {
+    "description": "Estimated duration label"
+  },
+  
+  "sedanCar": "Sedan car",
+  "@sedanCar": {
+    "description": "Sedan car type"
+  },
+  
+  "suitableForPassengers": "Suitable for 4 passengers",
+  "@suitableForPassengers": {
+    "description": "Passenger capacity description"
+  },
+  
+  "dubai": "Dubai",
+  "@dubai": {
+    "description": "Dubai city name"
+  },
+  
+  "notSpecified": "Not specified",
+  "@notSpecified": {
+    "description": "Text when value is not specified"
+  },
+  
+  "theStudent": "the student",
+  "@theStudent": {
+    "description": "The student reference"
+  },
+  
+  "theEmployee": "the employee",
+  "@theEmployee": {
+    "description": "The employee reference"
+  },
+  
+  "theUser": "the user",
+  "@theUser": {
+    "description": "The user reference"
+  },
+  
+  "myEarnings": "My Earnings",
+  "@myEarnings": {
+    "description": "My earnings page title"
+  },
+  
+  "totalEarnings": "Total Earnings",
+  "@totalEarnings": {
+    "description": "Total earnings label"
+  },
+  
+  "withdraw": "Withdraw",
+  "@withdraw": {
+    "description": "Withdraw label"
+  },
+  
+  "bookingsEarning": "Bookings Earning",
+  "@bookingsEarning": {
+    "description": "Bookings earning section title"
+  },
+  
+  "orderNumber": "Order#",
+  "@orderNumber": {
+    "description": "Order number prefix"
+  },
+  
+  "sar": "SAR",
+  "@sar": {
+    "description": "Saudi Arabian Riyal currency"
+  },
+  
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "description": "My profile page title"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab title"
+  },
+  
+  "review": "Review",
+  "@review": {
+    "description": "Review tab title"
+  },
+  
+  "payment": "Payment",
+  "@payment": {
+    "description": "Payment settings option"
+  },
+  
+  "appearance": "Appearance",
+  "@appearance": {
+    "description": "Appearance settings option"
+  },
+  
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications settings option"
+  },
+  
+  "helpSupport": "Help & Support",
+  "@helpSupport": {
+    "description": "Help and support option"
+  },
+  
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "Change password option"
+  },
+  
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout option"
+  },
+  
+  "reviewsRatings": "Reviews & Ratings",
+  "@reviewsRatings": {
+    "description": "Reviews and ratings section title"
+  },
+  
+  "overallRating": "Overall Rating",
+  "@overallRating": {
+    "description": "Overall rating label"
+  },
+  
+  "totalReviews": "Total Reviews",
+  "@totalReviews": {
+    "description": "Total reviews label"
+  },
+  
+  "recentReviews": "Recent Reviews",
+  "@recentReviews": {
+    "description": "Recent reviews section title"
+  },
+  
+  "errorSigningOut": "Error signing out:",
+  "@errorSigningOut": {
+    "description": "Error message when signing out fails"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile page title"
+  },
+  
+  "personalInformation": "Personal Information",
+  "@personalInformation": {
+    "description": "Personal information section title"
+  },
+  
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  
+  "enterFullName": "Enter your full name",
+  "@enterFullName": {
+    "description": "Full name field hint"
+  },
+  
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "description": "Email address field label"
+  },
+  
+  "mobileNumber": "Mobile Number",
+  "@mobileNumber": {
+    "description": "Mobile number field label"
+  },
+  
+  "enterMobileNumber": "Enter your mobile number",
+  "@enterMobileNumber": {
+    "description": "Mobile number field hint"
+  },
+  
+  "vehicleInformation": "Vehicle Information",
+  "@vehicleInformation": {
+    "description": "Vehicle information section title"
+  },
+  
+  "vehicleMake": "Vehicle Make",
+  "@vehicleMake": {
+    "description": "Vehicle make field label"
+  },
+  
+  "selectVehicleMake": "Select vehicle make",
+  "@selectVehicleMake": {
+    "description": "Vehicle make field hint"
+  },
+  
+  "vehicleModel": "Vehicle Model",
+  "@vehicleModel": {
+    "description": "Vehicle model field label"
+  },
+  
+  "selectVehicleModel": "Select vehicle model",
+  "@selectVehicleModel": {
+    "description": "Vehicle model field hint"
+  },
+  
+  "vehicleModelHint": "e.g., Toyota Corolla 2020",
+  "@vehicleModelHint": {
+    "description": "Vehicle model field hint"
+  },
+  
+  "vehicleYear": "Vehicle Year",
+  "@vehicleYear": {
+    "description": "Vehicle year field label"
+  },
+  
+  "selectVehicleYear": "Select vehicle year",
+  "@selectVehicleYear": {
+    "description": "Vehicle year field hint"
+  },
+  
+  "serviceAddress": "Service Address",
+  "@serviceAddress": {
+    "description": "Service address field label"
+  },
+  
+  "enterServiceArea": "Enter your service area",
+  "@enterServiceArea": {
+    "description": "Service address field hint"
+  },
+  
+  "serviceType": "Service Type",
+  "@serviceType": {
+    "description": "Service type field label"
+  },
+  
+  "selectServiceType": "Select your service type",
+  "@selectServiceType": {
+    "description": "Service type field hint"
+  },
+  
+  "fullTime": "Full Time",
+  "@fullTime": {
+    "description": "Full time service option"
+  },
+  
+  "partTime": "Part Time",
+  "@partTime": {
+    "description": "Part time service option"
+  },
+  
+  "hoursPerWeek": "40+ hours/week",
+  "@hoursPerWeek": {
+    "description": "Full time hours description"
+  },
+  
+  "flexibleHours": "Flexible hours",
+  "@flexibleHours": {
+    "description": "Part time hours description"
+  },
+  
+  "licenseNumber": "License Number",
+  "@licenseNumber": {
+    "description": "License number field label"
+  },
+  
+  "enterLicenseNumber": "Enter your license number",
+  "@enterLicenseNumber": {
+    "description": "License number field hint"
+  },
+  
+  "updateProfile": "Update Profile",
+  "@updateProfile": {
+    "description": "Update profile button text"
+  },
+  
+  "inbox": "Inbox",
+  "@inbox": {
+    "description": "Inbox screen title"
+  },
+  
+  "online": "Online",
+  "@online": {
+    "description": "Online status text"
+  },
+  
+  "typeYourMessage": "Type Your Message",
+  "@typeYourMessage": {
+    "description": "Message input placeholder text"
+  },
+
+  "chooseARole": "Choose a Role",
+  "@chooseARole": {
+    "description": "Choose a role title"
+  },
+
+  "selectAccordingToYourUses": "Select according to your uses",
+  "@selectAccordingToYourUses": {
+    "description": "Select according to your uses subtitle"
+  },
+
+  "iNeedTransport": "I need transport",
+  "@iNeedTransport": {
+    "description": "I need transport option"
+  },
+
+  "customer": "Customer",
+  "@customer": {
+    "description": "Customer role"
+  },
+
+  "iProvideTransport": "I provide transport",
+  "@iProvideTransport": {
+    "description": "I provide transport option"
+  },
+
+  "driverCompany": "Driver/Company",
+  "@driverCompany": {
+    "description": "Driver/Company role"
+  },
+
+  "selectRole": "Select Role",
+  "@selectRole": {
+    "description": "Select role title"
+  },
+
+  "minimalProfile": "Minimal profile",
+  "@minimalProfile": {
+    "description": "Minimal profile subtitle"
+  },
+
+  "schoolStudent": "School Student",
+  "@schoolStudent": {
+    "description": "School student role"
+  },
+
+  "viaParent": "Via Parent",
+  "@viaParent": {
+    "description": "Via parent subtitle"
+  },
+
+  "transportVisibleOnlyViaParent": "Transport visible only via parent",
+  "@transportVisibleOnlyViaParent": {
+    "description": "Transport visible only via parent description"
+  },
+
+  "universityStudent": "University Student",
+  "@universityStudent": {
+    "description": "University student role"
+  },
+
+  "universityInstituteStudent": "University/Institute Student",
+  "@universityInstituteStudent": {
+    "description": "University/Institute student subtitle"
+  },
+
+  "seeUniversityTransportCard": "See university transport card",
+  "@seeUniversityTransportCard": {
+    "description": "See university transport card description"
+  },
+
+  "teacherRole": "Teacher Role",
+  "@teacherRole": {
+    "description": "Teacher role subtitle"
+  },
+
+  "seeTeacherTransportCard": "See teacher transport card",
+  "@seeTeacherTransportCard": {
+    "description": "See teacher transport card description"
+  },
+
+  "employeeRole": "Employee Role",
+  "@employeeRole": {
+    "description": "Employee role subtitle"
+  },
+
+  "seeEmployeeTransportCard": "See employee transport card",
+  "@seeEmployeeTransportCard": {
+    "description": "See employee transport card description"
+  },
+
+
+  "managingKids": "Managing Kids",
+  "@managingKids": {
+    "description": "Managing kids subtitle"
+  },
+
+  "addChildrenProfiles": "Add University or Institute Name",
+  "@addChildrenProfiles": {
+    "description": "Add children profiles description"
+  },
+
+  "metroShuttleUser": "Metro Shuttle User",
+  "@metroShuttleUser": {
+    "description": "Metro shuttle user role"
+  },
+
+  "seeMetroShuttleCard": "See metro shuttle card",
+  "@seeMetroShuttleCard": {
+    "description": "See metro shuttle card description"
+  },
+
+  "selectYourRole": "Select Your Role",
+  "@selectYourRole": {
+    "description": "Select your role placeholder"
+  },
+
+  "metroShuttle": "Metro Shuttle",
+  "@metroShuttle": {
+    "description": "Metro shuttle title"
+  },
+
+  "setupMetroRoute": "Setup Metro Route",
+  "@setupMetroRoute": {
+    "description": "Setup metro route title"
+  },
+
+  "configureYourMetroRoute": "Configure your metro route",
+  "@configureYourMetroRoute": {
+    "description": "Configure your metro route subtitle"
+  },
+
+  "homeAddress": "Home Address",
+  "@homeAddress": {
+    "description": "Home address label"
+  },
+
+  "enterYourHomeAddress": "Enter your home address",
+  "@enterYourHomeAddress": {
+    "description": "Enter your home address subtitle"
+  },
+
+  "enterHomeAddress": "Enter home address",
+  "@enterHomeAddress": {
+    "description": "Enter home address hint"
+  },
+
+  "metroStation": "Metro Station",
+  "@metroStation": {
+    "description": "Metro station label"
+  },
+
+  "selectDestinationStation": "Select destination station",
+  "@selectDestinationStation": {
+    "description": "Select destination station subtitle"
+  },
+
+  "selectMetroStation": "Select metro station",
+  "@selectMetroStation": {
+    "description": "Select metro station hint"
+  },
+
+  "schedule": "Schedule",
+  "@schedule": {
+    "description": "Schedule label"
+  },
+
+  "selectDaysAndTimes": "Select days and times",
+  "@selectDaysAndTimes": {
+    "description": "Select days and times subtitle"
+  },
+
+  "selectDays": "Select Days",
+  "@selectDays": {
+    "description": "Select days label"
+  },
+
+  "morningTime": "Morning Time",
+  "@morningTime": {
+    "description": "Morning time label"
+  },
+
+  "eveningTime": "Evening Time",
+  "@eveningTime": {
+    "description": "Evening time label"
+  },
+
+  "selectTime": "Select Time",
+  "@selectTime": {
+    "description": "Select time placeholder"
+  },
+
+  "vehicleType": "Vehicle Type",
+  "@vehicleType": {
+    "description": "Vehicle type label"
+  },
+
+  "selectPreferredVehicle": "Select preferred vehicle",
+  "@selectPreferredVehicle": {
+    "description": "Select preferred vehicle subtitle"
+  },
+
+  "sedanCar": "Sedan Car",
+  "@sedanCar": {
+    "description": "Sedan car option"
+  },
+
+  "smallVan": "Small Van",
+  "@smallVan": {
+    "description": "Small van option"
+  },
+
+  "smallBus": "Small Bus",
+  "@smallBus": {
+    "description": "Small bus option"
+  },
+
+  "busLarge": "Bus (Large)",
+  "@busLarge": {
+    "description": "Bus large option"
+  },
+
+  "rideType": "Ride Type",
+  "@rideType": {
+    "description": "Ride type label"
+  },
+
+  "choosePrivateOrShared": "Choose private or shared",
+  "@choosePrivateOrShared": {
+    "description": "Choose private or shared subtitle"
+  },
+
+  "private": "Private",
+  "@private": {
+    "description": "Private ride type"
+  },
+
+  "shared": "Shared",
+  "@shared": {
+    "description": "Shared ride type"
+  },
+
+  "pleaseEnterHomeAddress": "Please enter home address",
+  "@pleaseEnterHomeAddress": {
+    "description": "Please enter home address error"
+  },
+
+  "pleaseSelectMetroStation": "Please select metro station",
+  "@pleaseSelectMetroStation": {
+    "description": "Please select metro station error"
+  },
+
+  "pleaseSelectAtLeastOneDay": "Please select at least one day",
+  "@pleaseSelectAtLeastOneDay": {
+    "description": "Please select at least one day error"
+  },
+
+  "pleaseSelectAtLeastOneTime": "Please select at least one time",
+  "@pleaseSelectAtLeastOneTime": {
+    "description": "Please select at least one time error"
+  },
+
+  "metroSubscriptions": "Metro Subscriptions",
+  "@metroSubscriptions": {
+    "description": "Metro subscriptions title"
+  },
+
+  "mySubscriptions": "My Subscriptions",
+  "@mySubscriptions": {
+    "description": "My subscriptions title"
+  },
+
+  "manageYourMetroRides": "Manage your metro rides",
+  "@manageYourMetroRides": {
+    "description": "Manage your metro rides subtitle"
+  },
+
+  "noSubscriptions": "No Subscriptions",
+  "@noSubscriptions": {
+    "description": "No subscriptions empty state"
+  },
+
+  "createYourFirstSubscription": "Create your first subscription",
+  "@createYourFirstSubscription": {
+    "description": "Create your first subscription message"
+  },
+
+  "createSubscription": "Create Subscription",
+  "@createSubscription": {
+    "description": "Create subscription button"
+  },
+
+  "subscriptionPaused": "Subscription paused",
+  "@subscriptionPaused": {
+    "description": "Subscription paused message"
+  },
+
+  "subscriptionResumed": "Subscription resumed",
+  "@subscriptionResumed": {
+    "description": "Subscription resumed message"
+  },
+
+  "subscriptionCancelled": "Subscription cancelled",
+  "@subscriptionCancelled": {
+    "description": "Subscription cancelled message"
+  },
+
+  "nextRide": "Next Ride",
+  "@nextRide": {
+    "description": "Next ride label"
+  },
+
+  "pause": "Pause",
+  "@pause": {
+    "description": "Pause button"
+  },
+
+  "resume": "Resume",
+  "@resume": {
+    "description": "Resume button"
+  },
+
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+
+  "companyDashboard": "Company Dashboard",
+  "@companyDashboard": {
+    "description": "Company dashboard title"
+  },
+
+  "manageYourFleet": "Manage your fleet",
+  "@manageYourFleet": {
+    "description": "Manage your fleet subtitle"
+  },
+
+  "overview": "Overview",
+  "@overview": {
+    "description": "Overview section title"
+  },
+
+  "totalBookings": "Total Bookings",
+  "@totalBookings": {
+    "description": "Total bookings label"
+  },
+
+  "activeDrivers": "Active Drivers",
+  "@activeDrivers": {
+    "description": "Active drivers label"
+  },
+
+  "totalVehicles": "Total Vehicles",
+  "@totalVehicles": {
+    "description": "Total vehicles label"
+  },
+
+  "monthlyRevenue": "Monthly Revenue",
+  "@monthlyRevenue": {
+    "description": "Monthly revenue label"
+  },
+
+  "quickActions": "Quick Actions",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+
+  "viewBookings": "View Bookings",
+  "@viewBookings": {
+    "description": "View bookings action"
+  },
+
+  "manageDrivers": "Manage Drivers",
+  "@manageDrivers": {
+    "description": "Manage drivers action"
+  },
+
+  "manageVehicles": "Manage Vehicles",
+  "@manageVehicles": {
+    "description": "Manage vehicles action"
+  },
+
+  "viewReports": "View Reports",
+  "@viewReports": {
+    "description": "View reports action"
+  },
+
+  "recentBookings": "Recent Bookings",
+  "@recentBookings": {
+    "description": "Recent bookings section title"
+  },
+
+  "viewAll": "View All",
+  "@viewAll": {
+    "description": "View all button"
+  },
+
+  "vehicleManagement": "Vehicle Management",
+  "@vehicleManagement": {
+    "description": "Vehicle management title"
+  },
+
+  "searchVehicles": "Search vehicles",
+  "@searchVehicles": {
+    "description": "Search vehicles hint"
+  },
+
+  "all": "All",
+  "@all": {
+    "description": "All filter option"
+  },
+
+  "maintenance": "Maintenance",
+  "@maintenance": {
+    "description": "Maintenance status"
+  },
+
+  "inactive": "Inactive",
+  "@inactive": {
+    "description": "Inactive status"
+  },
+
+  "noVehiclesFound": "No vehicles found",
+  "@noVehiclesFound": {
+    "description": "No vehicles found empty state"
+  },
+
+  "addYourFirstVehicle": "Add your first vehicle",
+  "@addYourFirstVehicle": {
+    "description": "Add your first vehicle message"
+  },
+
+  "addVehicle": "Add Vehicle",
+  "@addVehicle": {
+    "description": "Add vehicle button"
+  },
+
+  "vehicleDeleted": "Vehicle deleted",
+  "@vehicleDeleted": {
+    "description": "Vehicle deleted message"
+  },
+
+  "type": "Type",
+  "@type": {
+    "description": "Type label"
+  },
+
+  "seats": "Seats",
+  "@seats": {
+    "description": "Seats label"
+  },
+
+  "mileage": "Mileage",
+  "@mileage": {
+    "description": "Mileage label"
+  },
+
+  "driver": "Driver",
+  "@driver": {
+    "description": "Driver label"
+  },
+
+  "assign": "Assign",
+  "@assign": {
+    "description": "Assign button"
+  },
+
+  "viewDetails": "View Details",
+  "@viewDetails": {
+    "description": "View details button"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+
+  "driverManagement": "Driver Management",
+  "@driverManagement": {
+    "description": "Driver management title"
+  },
+
+  "searchDrivers": "Search drivers",
+  "@searchDrivers": {
+    "description": "Search drivers hint"
+  },
+
+  "online": "Online",
+  "@online": {
+    "description": "Online status"
+  },
+
+  "offline": "Offline",
+  "@offline": {
+    "description": "Offline status"
+  },
+
+  "busy": "Busy",
+  "@busy": {
+    "description": "Busy status"
+  },
+
+  "suspended": "Suspended",
+  "@suspended": {
+    "description": "Suspended status"
+  },
+
+  "noDriversFound": "No drivers found",
+  "@noDriversFound": {
+    "description": "No drivers found empty state"
+  },
+
+  "addYourFirstDriver": "Add your first driver",
+  "@addYourFirstDriver": {
+    "description": "Add your first driver message"
+  },
+
+  "addDriver": "Add Driver",
+  "@addDriver": {
+    "description": "Add driver button"
+  },
+
+  "driverSuspended": "Driver suspended",
+  "@driverSuspended": {
+    "description": "Driver suspended message"
+  },
+
+  "driverActivated": "Driver activated",
+  "@driverActivated": {
+    "description": "Driver activated message"
+  },
+
+  "activate": "Activate",
+  "@activate": {
+    "description": "Activate button"
+  },
+
+  "suspend": "Suspend",
+  "@suspend": {
+    "description": "Suspend button"
+  },
+
+  "assignVehicle": "Assign Vehicle",
+  "@assignVehicle": {
+    "description": "Assign vehicle button"
+  },
+
+  "earnings": "Earnings",
+  "@earnings": {
+    "description": "Earnings label"
+  },
+
+  "trips": "Trips",
+  "@trips": {
+    "description": "Trips label"
+  },
+
+  "documents": "Documents",
+  "@documents": {
+    "description": "Documents label"
+  },
+
+  "verified": "Verified",
+  "@verified": {
+    "description": "Verified status"
+  },
+
+  "actionRequired": "Action Required",
+  "@actionRequired": {
+    "description": "Action required label"
+  },
+
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown status"
+  },
+
+  "sunday": "Sunday",
+  "@sunday": {
+    "description": "Sunday day"
+  },
+
+  "monday": "Monday",
+  "@monday": {
+    "description": "Monday day"
+  },
+
+  "tuesday": "Tuesday",
+  "@tuesday": {
+    "description": "Tuesday day"
+  },
+
+  "wednesday": "Wednesday",
+  "@wednesday": {
+    "description": "Wednesday day"
+  },
+
+  "thursday": "Thursday",
+  "@thursday": {
+    "description": "Thursday day"
+  },
+
+  "friday": "Friday",
+  "@friday": {
+    "description": "Friday day"
+  },
+
+  "saturday": "Saturday",
+  "@saturday": {
+    "description": "Saturday day"
+  },
+
+  "unionSquareStation": "Union Square Station",
+  "@unionSquareStation": {
+    "description": "Union Square Station name"
+  },
+
+  "redLine": "Red Line",
+  "@redLine": {
+    "description": "Red Line name"
+  },
+
+  "centralStation": "Central Station",
+  "@centralStation": {
+    "description": "Central Station name"
+  },
+
+  "blueLine": "Blue Line",
+  "@blueLine": {
+    "description": "Blue Line name"
+  },
+
+  "westEndStation": "West End Station",
+  "@westEndStation": {
+    "description": "West End Station name"
+  },
+
+  "greenLine": "Green Line",
+  "@greenLine": {
+    "description": "Green Line name"
+  },
+
+  "eastGateStation": "East Gate Station",
+  "@eastGateStation": {
+    "description": "East Gate Station name"
+  },
+
+  "northTerminalStation": "North Terminal Station",
+  "@northTerminalStation": {
+    "description": "North Terminal Station name"
+  },
+
+  "parking": "Parking",
+  "@parking": {
+    "description": "Parking facility"
+  },
+
+  "elevator": "Elevator",
+  "@elevator": {
+    "description": "Elevator facility"
+  },
+
+  "ramp": "Ramp",
+  "@ramp": {
+    "description": "Ramp facility"
+  },
+
+  "wifi": "WiFi",
+  "@wifi": {
+    "description": "WiFi facility"
+  },
+
+  "restroom": "Restroom",
+  "@restroom": {
+    "description": "Restroom facility"
+  },
+
+  "facilities": "Facilities",
+  "@facilities": {
+    "description": "Facilities label"
+  },
+
+  "accessible": "Accessible",
+  "@accessible": {
+    "description": "Accessible status"
+  },
+
+  "pleaseSelectAStation": "Please select a station",
+  "@pleaseSelectAStation": {
+    "description": "Please select a station error"
+  },
+
+  "searchStations": "Search stations",
+  "@searchStations": {
+    "description": "Search stations hint"
+  },
+
+  "selectMetroStation": "Select Metro Station",
+  "@selectMetroStation": {
+    "description": "Select metro station title"
+  },
+
+  "locationIcon": "assets/icons/location.svg",
+  "@locationIcon": {
+    "description": "Location icon path"
+  },
+
+  "searchIcon": "assets/icons/search.svg",
+  "@searchIcon": {
+    "description": "Search icon path"
+  },
+
+  "dropdownIcon": "assets/icons/dropdown.svg",
+  "@dropdownIcon": {
+    "description": "Dropdown icon path"
+  },
+
+  "calendarIcon": "assets/icons/calendar.svg",
+  "@calendarIcon": {
+    "description": "Calendar icon path"
+  },
+
+  "carIcon": "assets/icons/car.svg",
+  "@carIcon": {
+    "description": "Car icon path"
+  },
+
+  "usersIcon": "assets/icons/users.svg",
+  "@usersIcon": {
+    "description": "Users icon path"
+  },
+
+  "clockIcon": "assets/icons/clock.svg",
+  "@clockIcon": {
+    "description": "Clock icon path"
+  },
+
+  "metroIcon": "assets/icons/metro.svg",
+  "@metroIcon": {
+    "description": "Metro icon path"
+  },
+
+  "familyIcon": "assets/icons/family.svg",
+  "@familyIcon": {
+    "description": "Family icon path"
+  },
+
+  "accessibilityIcon": "assets/icons/accessibility.svg",
+  "@accessibilityIcon": {
+    "description": "Accessibility icon path"
+  },
+
+  "documentIcon": "assets/icons/document.svg",
+  "@documentIcon": {
+    "description": "Document icon path"
+  },
+
+  "reportIcon": "assets/icons/report.svg",
+  "@reportIcon": {
+    "description": "Report icon path"
+  },
+
+  "availableOffers": "Available Offers",
+  "@availableOffers": {
+    "description": "Available offers screen title"
+  },
+
+  "offersReceived": "offers received",
+  "@offersReceived": {
+    "description": "Number of offers received"
+  },
+
+  "closest": "Closest",
+  "@closest": {
+    "description": "Sort by closest option"
+  },
+
+  "cheapest": "Cheapest",
+  "@cheapest": {
+    "description": "Sort by cheapest option"
+  },
+
+  "topRated": "Top Rated",
+  "@topRated": {
+    "description": "Sort by top rated option"
+  },
+
+  "searchingForProviders": "Searching for providers...",
+  "@searchingForProviders": {
+    "description": "Loading message while searching for providers"
+  },
+
+  "mayTakeUpTo30Seconds": "This may take up to 30 seconds",
+  "@mayTakeUpTo30Seconds": {
+    "description": "Time estimate for provider search"
+  },
+
+  "noOffersReceivedYet": "No offers received yet",
+  "@noOffersReceivedYet": {
+    "description": "Message when no offers are available"
+  },
+
+  "providersHave30MinutesToRespond": "Providers have 30 minutes to respond to your request",
+  "@providersHave30MinutesToRespond": {
+    "description": "Time limit for provider responses"
+  },
+
+  "individual": "Individual",
+  "@individual": {
+    "description": "Individual provider type"
+  },
+
+  "company": "Company",
+  "@company": {
+    "description": "Company provider type"
+  },
+
+  "trips": "trips",
+  "@trips": {
+    "description": "Number of trips"
+  },
+
+  "perMonth": "per month",
+  "@perMonth": {
+    "description": "Monthly pricing"
+  },
+
+  "perRide": "per ride",
+  "@perRide": {
+    "description": "Per ride pricing"
+  },
+
+  "seats": "seats",
+  "@seats": {
+    "description": "Number of seats"
+  },
+
+  "verified": "Verified",
+  "@verified": {
+    "description": "Verified badge"
+  },
+
+  "liveTracking": "Live Tracking",
+  "@liveTracking": {
+    "description": "Live tracking badge"
+  },
+
+  "insured": "Insured",
+  "@insured": {
+    "description": "Insured badge"
+  },
+
+  "femaleDriver": "Female Driver",
+  "@femaleDriver": {
+    "description": "Female driver badge"
+  },
+
+  "accept": "Accept",
+  "@accept": {
+    "description": "Accept offer button"
+  },
+
+  "negotiate": "Negotiate",
+  "@negotiate": {
+    "description": "Negotiate offer button"
+  },
+
+  "chat": "Chat",
+  "@chat": {
+    "description": "Chat button"
+  },
+
+  "decline": "Decline",
+  "@decline": {
+    "description": "Decline offer button"
+  },
+
+  "offerAcceptedSuccessfully": "Offer accepted successfully!",
+  "@offerAcceptedSuccessfully": {
+    "description": "Success message when offer is accepted"
+  },
+
+  "failedToAcceptOffer": "Failed to accept offer",
+  "@failedToAcceptOffer": {
+    "description": "Error message when offer acceptance fails"
+  },
+
+  "addDriver": "Add Driver",
+  "@addDriver": {
+    "description": "Add driver screen title"
+  },
+
+  "driverInfo": "Driver Info",
+  "@driverInfo": {
+    "description": "Driver information section title"
+  },
+
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+
+  "enterName": "Enter name",
+  "@enterName": {
+    "description": "Name field hint text"
+  },
+
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+
+  "emailOptional": "Email (optional)",
+  "@emailOptional": {
+    "description": "Email field label"
+  },
+
+  "status": "Status",
+  "@status": {
+    "description": "Status section title"
+  },
+
+  "online": "Online",
+  "@online": {
+    "description": "Online status"
+  },
+
+  "offline": "Offline",
+  "@offline": {
+    "description": "Offline status"
+  },
+
+  "busy": "Busy",
+  "@busy": {
+    "description": "Busy status"
+  },
+
+  "assignVehicleOptional": "Assign Vehicle (optional)",
+  "@assignVehicleOptional": {
+    "description": "Assign vehicle section title"
+  },
+
+  "createDriver": "Create Driver",
+  "@createDriver": {
+    "description": "Create driver button"
+  },
+
+  "unassigned": "Unassigned",
+  "@unassigned": {
+    "description": "Unassigned vehicle option"
+  },
+
+  "nameAndPhoneRequired": "Name and phone are required",
+  "@nameAndPhoneRequired": {
+    "description": "Required fields validation message"
+  },
+
+  "driverCreated": "Driver created",
+  "@driverCreated": {
+    "description": "Driver creation success message"
+  },
+
+  "addVehicle": "Add Vehicle",
+  "@addVehicle": {
+    "description": "Add vehicle screen title"
+  },
+
+  "basicInfo": "Basic Info",
+  "@basicInfo": {
+    "description": "Basic information section title"
+  },
+
+  "plateNumber": "Plate Number",
+  "@plateNumber": {
+    "description": "Plate number field label"
+  },
+
+  "make": "Make",
+  "@make": {
+    "description": "Vehicle make field label"
+  },
+
+  "model": "Model",
+  "@model": {
+    "description": "Vehicle model field label"
+  },
+
+  "type": "Type",
+  "@type": {
+    "description": "Vehicle type field label"
+  },
+
+  "sedan": "Sedan",
+  "@sedan": {
+    "description": "Sedan vehicle type"
+  },
+
+  "suv": "SUV",
+  "@suv": {
+    "description": "SUV vehicle type"
+  },
+
+  "van": "Van",
+  "@van": {
+    "description": "Van vehicle type"
+  },
+
+  "bus": "Bus",
+  "@bus": {
+    "description": "Bus vehicle type"
+  },
+
+  "transmission": "Transmission",
+  "@transmission": {
+    "description": "Transmission field label"
+  },
+
+  "auto": "Auto",
+  "@auto": {
+    "description": "Automatic transmission"
+  },
+
+  "manual": "Manual",
+  "@manual": {
+    "description": "Manual transmission"
+  },
+
+  "year": "Year",
+  "@year": {
+    "description": "Year field label"
+  },
+
+  "seatCapacity": "Seat Capacity",
+  "@seatCapacity": {
+    "description": "Seat capacity field label"
+  },
+
+  "createVehicle": "Create Vehicle",
+  "@createVehicle": {
+    "description": "Create vehicle button"
+  },
+
+  "plateMakeModelRequired": "Plate, make and model are required",
+  "@plateMakeModelRequired": {
+    "description": "Required fields validation message"
+  },
+
+  "vehicleCreated": "Vehicle created",
+  "@vehicleCreated": {
+    "description": "Vehicle creation success message"
+  },
+
+  "chooseDriverType": "Choose Driver Type",
+  "@chooseDriverType": {
+    "description": "Driver type selection screen title"
+  },
+
+  "selectHowToRegisterAsDriver": "Select how you want to register as a driver",
+  "@selectHowToRegisterAsDriver": {
+    "description": "Driver type selection subtitle"
+  },
+
+  "individualDriver": "Individual Driver",
+  "@individualDriver": {
+    "description": "Individual driver option"
+  },
+
+  "iRepresentCompany": "I represent a company",
+  "@iRepresentCompany": {
+    "description": "Company driver option"
+  },
+
+  "companyDriver": "Company Driver",
+  "@companyDriver": {
+    "description": "Company driver option subtitle"
+  },
+
+  "pleaseSelectDriverType": "Please select your driver type",
+  "@pleaseSelectDriverType": {
+    "description": "Driver type selection validation message"
+  },
+
+  "navigationFailed": "Navigation failed",
+  "@navigationFailed": {
+    "description": "Navigation error message"
+  },
+
+  "companyRegistration": "Company Registration",
+  "@companyRegistration": {
+    "description": "Company registration screen title"
+  },
+
+  "registerYourTransportationCompany": "Register your transportation company",
+  "@registerYourTransportationCompany": {
+    "description": "Company registration subtitle"
+  },
+
+  "companyInformation": "Company Information",
+  "@companyInformation": {
+    "description": "Company information section title"
+  },
+
+  "companyName": "Company Name",
+  "@companyName": {
+    "description": "Company name field label"
+  },
+
+  "enterCompanyName": "Enter company name",
+  "@enterCompanyName": {
+    "description": "Company name field hint"
+  },
+
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "description": "Email address field label"
+  },
+
+  "enterCompanyEmail": "Enter company email",
+  "@enterCompanyEmail": {
+    "description": "Company email field hint"
+  },
+
+  "enterCompanyPhone": "Enter company phone",
+  "@enterCompanyPhone": {
+    "description": "Company phone field hint"
+  },
+
+  "companyAddress": "Company Address",
+  "@companyAddress": {
+    "description": "Company address field label"
+  },
+
+  "enterCompanyAddress": "Enter company address",
+  "@enterCompanyAddress": {
+    "description": "Company address field hint"
+  },
+
+  "licenseNumber": "License Number",
+  "@licenseNumber": {
+    "description": "License number field label"
+  },
+
+  "enterBusinessLicenseNumber": "Enter business license number",
+  "@enterBusinessLicenseNumber": {
+    "description": "Business license number field hint"
+  },
+
+  "region": "Region",
+  "@region": {
+    "description": "Region field label"
+  },
+
+  "city": "City",
+  "@city": {
+    "description": "City field label"
+  },
+
+  "pleaseFillAllRequiredFields": "Please fill all required fields",
+  "@pleaseFillAllRequiredFields": {
+    "description": "Required fields validation message"
+  },
+
+  "registrationFailed": "Registration failed",
+  "@registrationFailed": {
+    "description": "Registration failed error message"
+  },
+
+  "enterYourPhoneNumberForVerification": "Enter your phone number for verification",
+  "@enterYourPhoneNumberForVerification": {
+    "description": "Phone number verification subtitle"
+  },
+
+  "enterYourPhoneNumber": "Enter your phone number",
+  "@enterYourPhoneNumber": {
+    "description": "Phone number field hint"
+  },
+
+  "weWillSendVerificationCode": "We will send you a verification code to confirm your phone number",
+  "@weWillSendVerificationCode": {
+    "description": "Verification code information message"
+  },
+
+  "sendVerificationCode": "Send Verification Code",
+  "@sendVerificationCode": {
+    "description": "Send verification code button"
+  },
+
+  "pleaseEnterYourPhoneNumber": "Please enter your phone number",
+  "@pleaseEnterYourPhoneNumber": {
+    "description": "Phone number required validation message"
+  },
+
+  "pleaseEnterValidPhoneNumber": "Please enter a valid phone number",
+  "@pleaseEnterValidPhoneNumber": {
+    "description": "Valid phone number required message"
+  },
+
+  "accountSettings": "Account Settings",
+  "@accountSettings": {
+    "description": "Account settings section title"
+  },
+
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile option"
+  },
+
+  "editProfileSubtitle": "Update your personal information",
+  "@editProfileSubtitle": {
+    "description": "Edit profile subtitle"
+  },
+
+  "changePhoneNumber": "Change Phone Number",
+  "@changePhoneNumber": {
+    "description": "Change phone number option"
+  },
+
+  "changePhoneNumberSubtitle": "Update your phone number",
+  "@changePhoneNumberSubtitle": {
+    "description": "Change phone number subtitle"
+  },
+
+  "changeEmail": "Change Email",
+  "@changeEmail": {
+    "description": "Change email option"
+  },
+
+  "changeEmailSubtitle": "Update your email address",
+  "@changeEmailSubtitle": {
+    "description": "Change email subtitle"
+  },
+
+  "changeAddress": "Change Address",
+  "@changeAddress": {
+    "description": "Change address option"
+  },
+
+  "changeAddressSubtitle": "Update your address information",
+  "@changeAddressSubtitle": {
+    "description": "Change address subtitle"
+  },
+
+  "appSettings": "App Settings",
+  "@appSettings": {
+    "description": "App settings section title"
+  },
+
+  "appearanceSubtitle": "Customize app appearance",
+  "@appearanceSubtitle": {
+    "description": "Appearance subtitle"
+  },
+
+  "notificationsSubtitle": "Manage notification preferences",
+  "@notificationsSubtitle": {
+    "description": "Notifications subtitle"
+  },
+
+  "locationSettings": "Location Settings",
+  "@locationSettings": {
+    "description": "Location settings option"
+  },
+
+  "locationSettingsSubtitle": "Manage location permissions",
+  "@locationSettingsSubtitle": {
+    "description": "Location settings subtitle"
+  },
+
+  "paymentSecurity": "Payment & Security",
+  "@paymentSecurity": {
+    "description": "Payment and security section title"
+  },
+
+  "paymentMethods": "Payment Methods",
+  "@paymentMethods": {
+    "description": "Payment methods option"
+  },
+
+  "paymentMethodsSubtitle": "Manage your payment methods",
+  "@paymentMethodsSubtitle": {
+    "description": "Payment methods subtitle"
+  },
+
+  "changePasswordSubtitle": "Update your password",
+  "@changePasswordSubtitle": {
+    "description": "Change password subtitle"
+  },
+
+  "privacySettings": "Privacy Settings",
+  "@privacySettings": {
+    "description": "Privacy settings option"
+  },
+
+  "privacySettingsSubtitle": "Manage your privacy preferences",
+  "@privacySettingsSubtitle": {
+    "description": "Privacy settings subtitle"
+  },
+
+  "supportHelp": "Support & Help",
+  "@supportHelp": {
+    "description": "Support and help section title"
+  },
+
+  "helpSupportSubtitle": "Get help and support",
+  "@helpSupportSubtitle": {
+    "description": "Help and support subtitle"
+  },
+
+  "aboutApp": "About App",
+  "@aboutApp": {
+    "description": "About app option"
+  },
+
+  "aboutAppSubtitle": "App version and information",
+  "@aboutAppSubtitle": {
+    "description": "About app subtitle"
+  },
+
+  "rateApp": "Rate App",
+  "@rateApp": {
+    "description": "Rate app option"
+  },
+
+  "rateAppSubtitle": "Rate us on the app store",
+  "@rateAppSubtitle": {
+    "description": "Rate app subtitle"
+  },
+
+  "trips": "Trips",
+  "@trips": {
+    "description": "Trips label"
+  },
+
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating label"
+  },
+
+  "contact": "Contact",
+  "@contact": {
+    "description": "Contact label"
+  },
+
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+
+  "errorLoadingData": "Error loading data",
+  "@errorLoadingData": {
+    "description": "Error loading data message"
+  },
+
+  "logoutConfirmation": "Are you sure you want to sign out?",
+  "@logoutConfirmation": {
+    "description": "Logout confirmation message"
+  },
+
+  "logoutError": "Error occurred during logout",
+  "@logoutError": {
+    "description": "Logout error message"
+  },
+
+  "studentTransport": "Student Transport",
+  "@studentTransport": {
+    "description": "Student transport service name"
+  },
+  "studentTransportDescription": "Transport students to universities and schools",
+  "@studentTransportDescription": {
+    "description": "Student transport service description"
+  },
+  "teacherTransport": "Teacher Transport",
+  "@teacherTransport": {
+    "description": "Teacher transport service name"
+  },
+  "teacherTransportDescription": "Transport teachers and staff",
+  "@teacherTransportDescription": {
+    "description": "Teacher transport service description"
+  },
+  "employeeTransport": "Employee Transport",
+  "@employeeTransport": {
+    "description": "Employee transport service name"
+  },
+  "employeeTransportDescription": "Transport employees to workplaces",
+  "@employeeTransportDescription": {
+    "description": "Employee transport service description"
+  },
+  "metroTransport": "Metro Transport",
+  "@metroTransport": {
+    "description": "Metro transport service name"
+  },
+  "metroTransportDescription": "Transport to metro stations",
+  "@metroTransportDescription": {
+    "description": "Metro transport service description"
+  },
+  "pleaseSelectAtLeastOneService": "Please select at least one service",
+  "@pleaseSelectAtLeastOneService": {
+    "description": "Error message when no service is selected"
+  },
+  "serviceSelection": "Service Selection",
+  "@serviceSelection": {
+    "description": "Service selection screen title"
+  },
+  "selectServicesYouProvide": "Select the services you provide",
+  "@selectServicesYouProvide": {
+    "description": "Service selection screen subtitle"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "pleaseSelectYourRegion": "Please select your region",
+  "@pleaseSelectYourRegion": {
+    "description": "Error message when region is not selected"
+  },
+  "pleaseSelectYourCity": "Please select your city",
+  "@pleaseSelectYourCity": {
+    "description": "Error message when city is not selected"
+  },
+  "pleaseSelectYourDistrict": "Please select your district",
+  "@pleaseSelectYourDistrict": {
+    "description": "Error message when district is not selected"
+  },
+  "locationInformation": "Location Information",
+  "@locationInformation": {
+    "description": "Location information screen title"
+  },
+  "selectYourServiceArea": "Select your service area",
+  "@selectYourServiceArea": {
+    "description": "Location information screen subtitle"
+  },
+  "region": "Region",
+  "@region": {
+    "description": "Region field label"
+  },
+  "district": "District",
+  "@district": {
+    "description": "District field label"
+  },
+  "pleaseEnterYourFullName": "Please enter your full name",
+  "@pleaseEnterYourFullName": {
+    "description": "Error message when full name is not entered"
+  },
+  "pleaseEnterYourEmailAddress": "Please enter your email address",
+  "@pleaseEnterYourEmailAddress": {
+    "description": "Error message when email is not entered"
+  },
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "@passwordMustBeAtLeast6Characters": {
+    "description": "Error message when password is too short"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Error message when passwords don't match"
+  },
+  "pleaseSelectYourGender": "Please select your gender",
+  "@pleaseSelectYourGender": {
+    "description": "Error message when gender is not selected"
+  },
+  "personalInformation": "Personal Information",
+  "@personalInformation": {
+    "description": "Personal information screen title"
+  },
+  "tellUsAboutYourself": "Tell us about yourself",
+  "@tellUsAboutYourself": {
+    "description": "Personal information screen subtitle"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  "enterYourFullName": "Enter your full name",
+  "@enterYourFullName": {
+    "description": "Full name field hint"
+  },
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "description": "Email address field label"
+  },
+  "enterYourEmail": "Enter your email",
+  "@enterYourEmail": {
+    "description": "Email field hint"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Password field hint"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "confirmYourPassword": "Confirm your password",
+  "@confirmYourPassword": {
+    "description": "Confirm password field hint"
+  },
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender field label"
+  },
+  "driverLicense": "Driver License",
+  "@driverLicense": {
+    "description": "Driver license document name"
+  },
+  "validDrivingLicense": "Valid driving license",
+  "@validDrivingLicense": {
+    "description": "Driver license description"
+  },
+  "vehicleRegistration": "Vehicle Registration",
+  "@vehicleRegistration": {
+    "description": "Vehicle registration document name"
+  },
+  "vehicleRegistrationCertificate": "Vehicle registration certificate",
+  "@vehicleRegistrationCertificate": {
+    "description": "Vehicle registration description"
+  },
+  "insuranceCertificate": "Insurance Certificate",
+  "@insuranceCertificate": {
+    "description": "Insurance certificate document name"
+  },
+  "vehicleInsuranceCertificate": "Vehicle insurance certificate",
+  "@vehicleInsuranceCertificate": {
+    "description": "Insurance certificate description"
+  },
+  "backgroundCheck": "Background Check",
+  "@backgroundCheck": {
+    "description": "Background check document name"
+  },
+  "criminalBackgroundCheck": "Criminal background check",
+  "@criminalBackgroundCheck": {
+    "description": "Background check description"
+  },
+  "vehiclePhoto": "Vehicle Photo",
+  "uploadVehiclePhoto": "Upload a clear photo of your vehicle",
+  "medicalCertificate": "Medical Certificate",
+  "@medicalCertificate": {
+    "description": "Medical certificate document name"
+  },
+  "healthCertificate": "Health certificate",
+  "@healthCertificate": {
+    "description": "Medical certificate description"
+  },
+  "documentUploadedSuccessfully": "Document uploaded successfully",
+  "@documentUploadedSuccessfully": {
+    "description": "Success message when document is uploaded"
+  },
+  "pleaseUploadAllRequiredDocuments": "Please upload all required documents",
+  "@pleaseUploadAllRequiredDocuments": {
+    "description": "Error message when required documents are missing"
+  },
+  "documentUpload": "Document Upload",
+  "@documentUpload": {
+    "description": "Document upload screen title"
+  },
+  "uploadRequiredDocumentsToCompleteRegistration": "Upload required documents to complete registration",
+  "@uploadRequiredDocumentsToCompleteRegistration": {
+    "description": "Document upload screen subtitle"
+  },
+  "completeRegistration": "Complete Registration",
+  "@completeRegistration": {
+    "description": "Complete registration button text"
+  },
+  "required": "Required",
+  "@required": {
+    "description": "Required document label"
+  },
+  "upload": "Upload",
+  "@upload": {
+    "description": "Upload button text"
+  },
+  "pleaseSelectVehicleMake": "Please select vehicle make",
+  "@pleaseSelectVehicleMake": {
+    "description": "Error message when vehicle make is not selected"
+  },
+  "pleaseSelectVehicleModel": "Please select vehicle model",
+  "@pleaseSelectVehicleModel": {
+    "description": "Error message when vehicle model is not selected"
+  },
+  "pleaseSelectVehicleYear": "Please select vehicle year",
+  "@pleaseSelectVehicleYear": {
+    "description": "Error message when vehicle year is not selected"
+  },
+  "pleaseEnterPlateNumber": "Please enter plate number",
+  "@pleaseEnterPlateNumber": {
+    "description": "Error message when plate number is not entered"
+  },
+  "pleaseSelectVehicleType": "Please select vehicle type",
+  "@pleaseSelectVehicleType": {
+    "description": "Error message when vehicle type is not selected"
+  },
+  "vehicleInformation": "Vehicle Information",
+  "@vehicleInformation": {
+    "description": "Vehicle information screen title"
+  },
+  "tellUsAboutYourVehicle": "Tell us about your vehicle",
+  "@tellUsAboutYourVehicle": {
+    "description": "Vehicle information screen subtitle"
+  },
+  "vehicleMake": "Vehicle Make",
+  "@vehicleMake": {
+    "description": "Vehicle make field label"
+  },
+  "vehicleModel": "Vehicle Model",
+  "@vehicleModel": {
+    "description": "Vehicle model field label"
+  },
+  "vehicleYear": "Vehicle Year",
+  "@vehicleYear": {
+    "description": "Vehicle year field label"
+  },
+  "plateNumber": "Plate Number",
+  "@plateNumber": {
+    "description": "Plate number field label"
+  },
+  "plateNumberExample": "e.g., ABC-1234",
+  "@plateNumberExample": {
+    "description": "Plate number field hint"
+  },
+  "vehicleType": "Vehicle Type",
+  "@vehicleType": {
+    "description": "Vehicle type field label"
+  },
+  "airConditioningAvailable": "Air Conditioning Available",
+  "@airConditioningAvailable": {
+    "description": "Air conditioning checkbox label"
+  },
+  "pleaseEnterTheVerificationCode": "Please enter the verification code",
+  "@pleaseEnterTheVerificationCode": {
+    "description": "Error message when verification code is not entered"
+  },
+  "pleaseEnterValid6DigitCode": "Please enter a valid 6-digit code",
+  "@pleaseEnterValid6DigitCode": {
+    "description": "Error message when verification code is invalid"
+  },
+  "verificationCodeSentSuccessfully": "Verification code sent successfully",
+  "@verificationCodeSentSuccessfully": {
+    "description": "Success message when verification code is sent"
+  },
+  "verificationCode": "Verification Code",
+  "@verificationCode": {
+    "description": "Verification code screen title and field label"
+  },
+  "enter6DigitCodeSentTo": "Enter the 6-digit code sent to\n{phoneNumber}",
+  "@enter6DigitCodeSentTo": {
+    "description": "Verification code screen subtitle with phone number",
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String",
+        "description": "Phone number to display"
+      }
+    }
+  },
+  "enter6DigitCode": "Enter 6-digit code",
+  "@enter6DigitCode": {
+    "description": "Verification code field hint"
+  },
+  "resendCodeIn": "Resend code in {time}",
+  "@resendCodeIn": {
+    "description": "Resend code countdown message",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "description": "Time remaining"
+      }
+    }
+  },
+  "resendCode": "Resend Code",
+  "@resendCode": {
+    "description": "Resend code button text"
+  },
+  "checkYourSMSMessagesForVerificationCode": "Check your SMS messages for the verification code",
+  "@checkYourSMSMessagesForVerificationCode": {
+    "description": "Info message about checking SMS"
+  },
+  "verifyCode": "Verify Code",
+  "@verifyCode": {
+    "description": "Verify code button text"
+  },
+  "currentPhoneNumber": "Current Phone Number",
+  "newPhoneNumber": "New Phone Number",
+  "enterNewPhoneNumber": "Enter new phone number",
+  "phoneChangeInfo": "We will send you a verification code to confirm your new phone number",
+  "updatePhoneNumber": "Update Phone Number",
+  "pleaseEnterPhoneNumber": "Please enter phone number",
+  "phoneUpdatedSuccessfully": "Phone number updated successfully",
+  "currentAddress": "Current Address",
+  "newAddress": "New Address",
+  "enterNewAddress": "Enter new address",
+  "addressChangeInfo": "Your address will be used for pickup and delivery services",
+  "updateAddress": "Update Address",
+  "pleaseEnterAddress": "Please enter address",
+  "addressUpdatedSuccessfully": "Address updated successfully"
+}

@@ -1,0 +1,9 @@
+{
+  "Riyadh": ["Al Olaya", "Al Malqa", "Al Nakheel", "Al Aqiq", "Al Yasmin", "Al Muruj", "Al Wurud", "Al Rawdah", "Al Aziziyah", "Al Sulaymaniyah"],
+  "Jeddah": ["Al Hamra", "Al Rawdah", "Al Safa", "Al Nahda", "Al Rehab"],
+  "Dammam": ["Al Faisaliyah", "Al Shati", "Al Mazruiyah", "Al Badiyah"],
+  "Mecca": ["Ajyad", "Al Aziziyah", "Al Shisha", "Al Awali"],
+  "Medina": ["Quba", "Al Khalidiyah", "Al Qiblatayn", "Al Aziziyah"]
+}
+
+

@@ -1,0 +1,2 @@
+/Users/huzaifashakeel/Documents/NAYBRZ DXB/NAYBRZ DXB/android/app/.cxx/RelWithDebInfo/3b1z6v73/x86_64/CMakeFiles/edit_cache.dir
+/Users/huzaifashakeel/Documents/NAYBRZ DXB/NAYBRZ DXB/android/app/.cxx/RelWithDebInfo/3b1z6v73/x86_64/CMakeFiles/rebuild_cache.dir

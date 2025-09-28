@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NAYBRZ DBX</string>
+    <string name="facebook_app_id">1329478708144397</string>
+    <string name="fb_login_protocol_scheme">fb1329478708144397</string>
+    <string name="facebook_client_token">3abe902b69a91dc70165ad6d7955d8ba</string>
+</resources>

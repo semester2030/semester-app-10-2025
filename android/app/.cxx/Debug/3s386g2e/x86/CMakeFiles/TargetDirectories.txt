@@ -1,0 +1,2 @@
+/Users/huzaifashakeel/Documents/boodle/boodle/android/app/.cxx/Debug/3s386g2e/x86/CMakeFiles/edit_cache.dir
+/Users/huzaifashakeel/Documents/boodle/boodle/android/app/.cxx/Debug/3s386g2e/x86/CMakeFiles/rebuild_cache.dir

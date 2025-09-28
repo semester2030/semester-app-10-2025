@@ -1,0 +1,2 @@
+/Users/huzaifashakeel/Documents/boodle/boodle/android/app/.cxx/RelWithDebInfo/451a6a32/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/huzaifashakeel/Documents/boodle/boodle/android/app/.cxx/RelWithDebInfo/451a6a32/armeabi-v7a/CMakeFiles/edit_cache.dir

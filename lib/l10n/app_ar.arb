@@ -1,0 +1,1913 @@
+{
+  "@@locale": "ar",
+  
+  "appTitle": "نايبرز دبي",
+  
+  "language": "اللغة",
+  
+  "changeLanguage": "تغيير اللغة",
+  
+  "saveLanguage": "حفظ اللغة",
+  
+  "english": "English",
+  
+  "arabic": "عربي",
+  
+  "home": "الرئيسية",
+  
+  "myBookings": "حجوزاتي",
+  
+  "messages": "الرسائل",
+  
+  "map": "الخريطة",
+  
+  "settings": "الإعدادات",
+  
+  "login": "تسجيل الدخول",
+  
+  "signup": "إنشاء حساب",
+  
+  "email": "البريد الإلكتروني",
+  
+  "onboarding1Title": "شريك الرحلة الموثوق",
+  
+  "onboarding1Description": "سواء كنت طالباً أو والداً أو معلماً — تطبيق سيمستر يوفر طريقة آمنة ومجدولة للتنقل.",
+  
+  "onboarding2Title": "احجز رحلتك بسهولة",
+  
+  "onboarding2Description": "احجز رحلاتك المدرسية مع السائقين المعتمدين في بضع خطوات بسيطة.",
+  
+  "onboarding3Title": "تتبع رحلتك في الوقت الفعلي",
+  
+  "onboarding3Description": "تابع موقع الحافلة وأوقات الوصول المتوقعة مع التحديثات المباشرة.",
+  
+  "next": "التالي",
+  
+  "getStarted": "ابدأ الآن",
+  
+  "welcomeBack": "مرحباً بعودتك",
+  
+  "loginDescription": "أدخل بيانات تسجيل الدخول للمتابعة. لن تتمكن من تسجيل الدخول إذا لم يتم التحقق من حسابك.",
+  
+  "email": "البريد الإلكتروني",
+  
+  "password": "كلمة المرور",
+  
+  "confirmPassword": "تأكيد كلمة المرور",
+  
+  "forgotPassword": "نسيت كلمة المرور؟",
+  
+  "loggingIn": "جاري تسجيل الدخول...",
+  
+  "dontHaveAccount": "ليس لديك حساب؟ ",
+  
+  "registerNow": "سجل الآن",
+  
+  "testAccountInstructions": "تعليمات الحساب التجريبي",
+  
+  "testAccountDescription": "لاختبار التطبيق، يرجى استخدام أحد الحسابات التجريبية التالية:",
+  
+  "forUserSide": "• للجانب المستخدم:",
+  
+  "forDriverSide": "• للجانب السائق:",
+  
+  "ok": "موافق",
+  
+  "forgotPasswordTitle": "نسيت كلمة المرور",
+  
+  "forgotPasswordDescription": "أدخل عنوان بريدك الإلكتروني وسنرسل لك رمز التحقق لإعادة تعيين كلمة المرور.",
+  
+  "sendOtp": "إرسال رمز التحقق",
+  
+  "rememberPassword": "تذكرت كلمة المرور؟ ",
+  
+  "backToLogin": "العودة لتسجيل الدخول",
+  
+  "otpVerification": "التحقق من رمز OTP",
+  
+  "otpDescription": "أدخل رمز التحقق المكون من 6 أرقام المرسل إلى عنوان بريدك الإلكتروني.",
+  
+  "enterOtp": "أدخل رمز OTP",
+  
+  "verifyOtp": "تحقق من رمز OTP",
+  
+  "didntReceiveOtp": "لم تستلم الرمز؟ ",
+  
+  "resendOtp": "إعادة إرسال",
+  
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  
+  "resetPasswordDescription": "أدخل كلمة المرور الجديدة لحسابك.",
+  
+  "newPassword": "كلمة المرور الجديدة",
+  
+  "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+  
+  "updatePassword": "تحديث كلمة المرور",
+  
+  "firstName": "الاسم الأول",
+  
+  "lastName": "اسم العائلة",
+  
+  "phoneNumber": "رقم الهاتف",
+  
+  "forgotPassword": "نسيت كلمة المرور؟",
+  
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  
+  "dailyTransportation": "المواصلات اليومية",
+  
+  "transportationForEmployees": "مواصلات الموظفين",
+  
+  "studentTransportation": "مواصلات الطلاب",
+  
+  "booking": "الحجز",
+  
+  "bookNow": "احجز الآن",
+  
+  "confirmBooking": "تأكيد الحجز",
+  
+  "cancelBooking": "إلغاء الحجز",
+  
+  "driver": "السائق",
+  
+  "user": "المستخدم",
+  
+  "student": "طالب",
+  
+  "employee": "موظفة",
+  
+  "vehicle": "المركبة",
+  
+  "vehicleType": "نوع المركبة",
+  
+  "vehicleModel": "طراز المركبة",
+  
+  "licensePlate": "لوحة الترخيص",
+  
+  "pickupLocation": "موقع الاستلام",
+  
+  "destination": "الوجهة",
+  
+  "pickupTime": "وقت الاستلام",
+  
+  "fare": "التعرفة",
+  
+  "status": "الحالة",
+  
+  "pending": "قيد الانتظار",
+  
+  "confirmed": "مؤكد",
+  
+  "inProgress": "قيد التنفيذ",
+  
+  "completed": "مكتمل",
+  
+  "cancelled": "ملغي",
+  
+  "active": "نشط",
+  
+  "rating": "التقييم",
+  
+  "review": "المراجعة",
+  
+  "addReview": "إضافة مراجعة",
+  
+  "payment": "الدفع",
+  
+  "paymentMethod": "طريقة الدفع",
+  
+  "cash": "نقد",
+  
+  "card": "بطاقة",
+  
+  "digitalWallet": "محفظة رقمية",
+  
+  "profile": "الملف الشخصي",
+  
+  "editProfile": "تحرير الملف الشخصي",
+  
+  "notifications": "الإشعارات",
+  
+  "helpSupport": "المساعدة والدعم",
+  
+  "changePassword": "تغيير كلمة المرور",
+  
+  "logout": "تسجيل الخروج",
+  
+  "male": "ذكر",
+  
+  "female": "أنثى",
+  
+  "gender": "الجنس",
+  
+  "city": "المدينة",
+  
+  "address": "العنوان",
+  
+  "save": "حفظ",
+  
+  "cancel": "إلغاء",
+  
+  "search": "بحث",
+  
+  "selectDriver": "اختر التاريخ",
+  
+  "bookingDetails": "تفاصيل الحجز",
+  
+  "notes": "ملاحظات",
+  
+  "distance": "المسافة",
+  
+  "duration": "المدة",
+  
+  "aed": "درهم",
+  
+  "riyal": "ريال",
+  
+  "uploadDocuments": "رفع المستندات",
+  
+  "selectVehicleType": "اختيار نوع المركبة",
+  
+  "car": "سيارة",
+  
+  "suv": "دفع رباعي",
+  
+  "van": "فان",
+  
+  "bus": "حافلة",
+  
+  "sedan": "سيدان",
+  
+  "welcomeBack": "مرحباً بعودتك",
+  
+  "getStarted": "البدء",
+  
+  "next": "التالي",
+  
+  "previous": "السابق",
+  
+  "done": "تم",
+  
+  "loading": "جاري التحميل...",
+  
+  "error": "خطأ",
+  
+  "success": "نجح",
+  
+  "languageChangedSuccessfully": "تم تغيير اللغة بنجاح",
+  
+  "pleaseSelectLanguage": "يرجى اختيار لغة",
+  
+  "registerNewAccount": "تسجيل حساب جديد",
+  
+  "chooseAccountType": "تاريخ الاشتراك المطلوب",
+  
+  "continueButton": "متابعة",
+  
+  "pleaseSelectAccountType": "اختر تاريخ البداية للاشتراك",
+  
+  "personalInformation": "المعلومات الشخصية",
+  
+  "fullName": "الاسم الكامل",
+  
+  "phoneNumber": "رقم الهاتف",
+  
+  "gender": "الجنس",
+  
+  "selectGender": "اختر الجنس",
+  "selectUniversity": "اختر الجامعة",
+  "addUniversityOrInstituteName": "أضف اسم الجامعة أو المعهد",
+  
+  "addChildrenProfiles": "أضف اسم الجامعة أو المعهد",
+  
+  "male": "ذكر",
+  
+  "female": "أنثى",
+  
+  "vehicleInformation": "معلومات المركبة",
+  
+  "vehicleColor": "لون المركبة",
+  
+  "locationInformation": "معلومات الموقع",
+  
+  "district": "المنطقة",
+  
+  "accountInformation": "معلومات الحساب",
+  
+  "termsAndConditions": "أوافق على الشروط والأحكام",
+  
+  "signUp": "تسجيل",
+  
+  "becomeDriver": "كن سائقاً",
+  
+  "verifyIdentityDescription": "تحقق من هويتك ومركبتك بهذه المستندات المطلوبة لبدء الكسب.",
+  
+  "uploadIdCard": "رفع صورة الهوية الشخصية",
+  
+  "drivingLicense": "صورة رخصة القيادة",
+  
+  "vehicleRegistration": "صورة تسجيل المركبة",
+  
+  "vehiclePhoto": "صورة المركبة (مع لوحة الترخيص)",
+  
+  "profilePicture": "الصورة الشخصية",
+  
+  "submit": "إرسال",
+  
+  "congratulations": "تهانينا",
+  
+  "applicationSubmittedSuccessfully": "تم التحقق من بريدك الإلكتروني. تم تقديم طلبك بنجاح. سنراجع طلبك ونتواصل معك خلال 24 ساعة.",
+  
+  "close": "إغلاق",
+  
+  "pleaseSelectRole": "يرجى اختيار دور للمتابعة",
+  
+  "uploadDocuments": "رفع المستندات",
+  
+  "selectFromGallery": "اختيار من المعرض",
+  
+  "takePhoto": "التقاط صورة",
+  
+  "cancel": "إلغاء",
+  
+  "delete": "حذف",
+  
+  "clickToUpload": "انقر للرفع",
+  
+  "idCardFileName": "الهوية الشخصية.png",
+  
+  "drivingLicenseFileName": "رخصة القيادة.png",
+  
+  "vehicleRegistrationFileName": "تسجيل المركبة.png",
+  
+  "vehiclePhotoFileName": "صورة المركبة.png",
+  
+  "profilePictureFileName": "الصورة الشخصية.png",
+  
+  "driverRegistrationRequirements": "متطلبات تسجيل السائق",
+  
+  "userRegistrationRequirements": "متطلبات تسجيل المستخدم",
+  
+  "requirement21Years": "يجب أن يكون العمر 21 سنة أو أكثر.",
+  
+  "requirementValidLicense": "رخصة قيادة صالحة.",
+  
+  "requirementValidID": "هوية وطنية صالحة.",
+  
+  "requirementVehicleInsurance": "تأمين مركبة صالح.",
+  
+  "requirementPersonalPhoto": "صورة شخصية حديثة",
+  
+  "requirementCleanRecord": "سجل قيادة نظيف.",
+  
+  "requirement18Years": "يجب أن يكون العمر 18 سنة أو أكثر",
+  
+  "requirementMobileNumber": "رقم هاتف محمول فعال",
+  
+  "requirementActiveEmail": "بريد إلكتروني فعال",
+  
+  "reviewMessage": "سيتم مراجعة طلبك والتواصل معك خلال 24 ساعة",
+  
+  "alreadyHaveAccount": "هل لديك حساب بالفعل؟ ",
+  
+  "loginNow": "تسجيل الدخول الآن",
+  
+  "security": "الأمان",
+  
+  "createPassword": "إنشاء كلمة مرور",
+  
+  "termsDescription": "بالمتابعة، فإنك توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا. سيتم تخزين معلوماتك بأمان واستخدامها لتحسين تجربة القيادة الخاصة بك.",
+  
+  "serviceType": "نوع الخدمة",
+  
+  "selectServiceType": "اختر نوع الخدمة",
+  
+  "fullTime": "دوام كامل",
+  
+  "partTime": "دوام جزئي",
+  
+  "fullTimeDescription": "40+ ساعة/أسبوع",
+  
+  "partTimeDescription": "ساعات مرنة",
+  
+  "userInformation": "معلومات المستخدم",
+  
+  "selectImageSource": "اختر مصدر الصورة",
+  
+  "camera": "الكاميرا",
+  
+  "gallery": "المعرض",
+  
+  "documentsProgress": "تقدم الوثائق",
+  
+  "documentsUploaded": "تم رفع {uploaded} من {total} وثيقة",
+  
+  "tapToUploadDocument": "اضغط لرفع الوثيقة",
+  
+  "documentUploadedSuccessfully": "تم رفع الوثيقة بنجاح",
+  
+  "setNewPassword": "تعيين كلمة مرور جديدة",
+  
+  "passwordMustContain": "يجب أن تحتوي كلمة المرور على",
+  
+  "atLeast8Characters": "8 أحرف على الأقل.",
+  
+  "atLeastOneUppercase": "حرف كبير واحد على الأقل.",
+  
+  "atLeastOneLowercase": "حرف صغير واحد على الأقل.",
+  
+  "atLeastOneNumber": "رقم واحد على الأقل.",
+  
+  "atLeastOneSpecialChar": "رمز خاص واحد على الأقل.",
+  
+  "newPassword": "كلمة المرور الجديدة",
+  
+  "confirmPassword": "تأكيد كلمة المرور",
+  
+  "saveAndGoToLogin": "حفظ والذهاب لتسجيل الدخول",
+  
+  "selectYourRole": "اختر نوع الحساب",
+  
+  "universityStudent": "طالبة جامعة",
+  
+  "universityInstituteStudent": "طالبة جامعة/معهد",
+  
+  "student": "طالب",
+  
+  "teacher": "معلمة",
+  
+  "teacherRole": "دور المعلمة",
+  
+  "schoolStudent": "طالب مدرسة",
+  
+  "viaParent": "عبر الوالدين",
+  
+  "metroShuttleUser": "نقل إلى محطة القطار",
+  
+  "metroShuttle": "نقل إلى محطة القطار",
+  
+  "employee": "موظفة",
+  
+  "employeeRole": "دور الموظفة",
+  
+  "security": "الأمان",
+  
+  "createPassword": "إنشاء كلمة مرور",
+  
+  "termsAndConditionsText": "بالمتابعة، فإنك توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا. ستتم حماية معلوماتك بشكل آمن واستخدامها لتحسين تجربة الركوب الخاصة بك.",
+  
+  "continueRegistration": "متابعة التسجيل",
+  
+  "helloUser": "مرحباً، {userName}",
+  
+  "welcomeToSamaster": "مرحباً بك في خدمات\nسمستر للنقل",
+  
+  "welcomeDescription": "اختر الخدمة التي تناسبك واستمتع بتجربة نقل آمنة وموثوقة وسهلة.",
+  
+  "studentTransportationShort": "نقل\nالطلاب",
+  
+  "teacherTransportation": "نقل\nالمعلمات",
+  
+  "employeeTransportation": "نقل\nالموظفات",
+  
+  "dailyTransportationShort": "النقل\nاليومي",
+  
+  "inbox": "صندوق الوارد",
+  
+  "searchMessages": "البحث في الرسائل",
+  
+  "messages": "الرسائل",
+  
+  "request": "طلب",
+  
+  "typing": "يكتب...",
+  
+  "now": "الآن",
+  
+  "today": "اليوم",
+  
+  "daysAgo": "منذ {count} أيام",
+  
+  "weekAgo": "منذ أسبوع",
+
+  "sendingOtp": "جاري إرسال رمز OTP...",
+
+  "phoneVerifiedAutomatically": "تم التحقق من رقم الهاتف تلقائياً!",
+
+  "invalidPhoneNumber": "رقم الهاتف المقدم غير صالح.",
+
+  "verificationFailed": "فشل التحقق: {message}",
+
+  "otpSentToPhone": "تم إرسال رمز OTP إلى هاتفك!",
+
+  "otpSentToEmail": "تم إرسال رمز OTP إلى بريدك الإلكتروني!",
+
+  "anErrorOccurred": "حدث خطأ",
+
+  "failedToSendOtpEmail": "فشل في إرسال رمز OTP إلى بريدك الإلكتروني. يرجى المحاولة مرة أخرى.",
+
+  "failedToSendOtp": "فشل في إرسال رمز OTP",
+
+  "verifyingOtp": "جاري التحقق من رمز OTP...",
+
+  "phoneVerifiedSuccessfully": "تم التحقق من رقم الهاتف بنجاح!",
+
+  "invalidOtp": "رمز OTP غير صالح",
+
+  "invalidOtpMessage": "رمز التحقق من الرسائل النصية/TOTP غير صالح. يرجى التحقق وإدخال رمز التحقق الصحيح مرة أخرى.",
+
+  "verificationFailedTitle": "فشل التحقق",
+
+  "verificationFailedMessage": "حدث خطأ أثناء التحقق: {message}",
+
+  "otpVerifiedSuccessfully": "تم التحقق من رمز OTP بنجاح!",
+
+  "invalidOtpTryAgain": "رمز OTP غير صالح. يرجى المحاولة مرة أخرى.",
+
+  "otpExpired": "انتهت صلاحية رمز OTP",
+
+  "otpExpiredMessage": "انتهت صلاحية رمز OTP. يرجى طلب رمز جديد.",
+
+  "errorTryAgain": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+
+  "emailVerificationSuccess": "تم التحقق من بريدك الإلكتروني. تم تقديم طلبك بنجاح. سنراجع طلبك ونتواصل معك خلال 24 ساعة.",
+
+  "emailVerifiedSuccessfullyLoginNow": "تم التحقق من بريدك الإلكتروني بنجاح. يمكنك تسجيل الدخول الآن.",
+
+  "accountCreatedSuccess": "تم إنشاء حسابك بنجاح! يمكنك الآن تسجيل الدخول والاستمتاع بخدماتنا.",
+
+  "pleaseEnterValidOtp": "يرجى إدخال رمز OTP صالح",
+
+  "myProfile": "ملفي الشخصي",
+
+  "setting": "الإعدادات",
+
+  "appearance": "المظهر",
+
+  "notifications": "الإشعارات",
+
+  "tripCount": "{count} رحلة",
+
+  "current": "الحالي",
+
+  "editBooking": "تعديل الحجز",
+
+  "contactDriver": "التواصل مع السائق",
+
+  "viewReview": "عرض التقييم",
+
+  "addReview": "إضافة تقييم",
+
+  "bookAgain": "احجز مرة أخرى",
+
+  "contactSupport": "التواصل مع الدعم",
+
+  "active": "نشط",
+
+  "noBookingsFound": "لا توجد حجوزات {status}",
+
+  "noBookingsMessage": "ستظهر حجوزاتك {status} هنا",
+
+  "vehicleInfo": "معلومات المركبة",
+
+  "licensePlate": "لوحة الترخيص",
+
+  "basePrice": "السعر الأساسي",
+
+  "finalPrice": "السعر النهائي",
+
+  "cost": "التكلفة",
+
+  "yourRatingAndReview": "تقييمك ومراجعتك",
+
+  "overallRating": "التقييم العام",
+
+  "driverCommunicationRating": "تقييم التواصل مع السائق",
+
+  "vehicleCondition": "حالة المركبة",
+
+  "yourReview": "مراجعتك",
+
+  "passwordChangedSuccessfully": "تم تغيير كلمة المرور بنجاح.",
+
+  "passwordMustContain": "يجب أن تحتوي كلمة المرور على",
+
+  "currentPasswordRequired": "كلمة المرور الحالية مطلوبة",
+
+  "newPasswordRequired": "كلمة المرور الجديدة مطلوبة",
+
+  "passwordMinLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+
+  "passwordComplexityError": "يجب أن تحتوي كلمة المرور على أحرف كبيرة وصغيرة ورقم ورمز خاص",
+
+  "confirmPasswordRequired": "يرجى تأكيد كلمة المرور الجديدة",
+
+  "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+
+  "changingPassword": "جاري تغيير كلمة المرور...",
+
+  "noUserLoggedIn": "لا يوجد مستخدم مسجل الدخول",
+
+  "userEmailNotAvailable": "بريد المستخدم الإلكتروني غير متوفر",
+
+  "currentPasswordIncorrect": "كلمة المرور الحالية غير صحيحة",
+
+  "recentLoginRequired": "يرجى تسجيل الخروج وتسجيل الدخول مرة أخرى قبل تغيير كلمة المرور",
+
+  "passwordChangeFailedTitle": "فشل في تغيير كلمة المرور",
+
+    "passwordChangeFailedMessage": "كلمة المرور الحالية غير صحيحة",
+  "@passwordChangeFailedMessage": {
+    "description": "Password change failure dialog message"
+  },
+
+  "passwordMustContain": "يجب أن تحتوي كلمة المرور على",
+  "@passwordMustContain": {
+    "description": "Header for password requirements"
+  },
+
+  "atLeast8Characters": "8 أحرف على الأقل.",
+  "@atLeast8Characters": {
+    "description": "Password requirement: minimum length"
+  },
+
+  "atLeastOneUppercase": "حرف كبير واحد على الأقل.",
+  "@atLeastOneUppercase": {
+    "description": "Password requirement: uppercase letter"
+  },
+
+  "atLeastOneLowercase": "حرف صغير واحد على الأقل.",
+  "@atLeastOneLowercase": {
+    "description": "Password requirement: lowercase letter"
+  },
+
+  "atLeastOneNumber": "رقم واحد على الأقل.",
+  "@atLeastOneNumber": {
+    "description": "Password requirement: number"
+  },
+
+  "atLeastOneSpecialChar": "رمز خاص واحد على الأقل.",
+  "@atLeastOneSpecialChar": {
+    "description": "Password requirement: special character"
+  },
+
+  "school": "مدرسة",
+  "@school": {
+    "description": "School address type"
+  },
+
+  "university": "جامعة",
+  "@university": {
+    "description": "University address type"
+  },
+
+  "others": "أخرى",
+  "@others": {
+    "description": "Others address type"
+  },
+
+  "addressType": "نوع العنوان",
+  "@addressType": {
+    "description": "Address type selection label"
+  },
+
+  "locationInformation": "معلومات الموقع",
+  "@locationInformation": {
+    "description": "Location information header"
+  },
+
+  "addressInformation": "معلومات العنوان",
+  "@addressInformation": {
+    "description": "Address information header"
+  },
+
+  "setPickupLocationSchedule": "حدد موقعك",
+  "@setPickupLocationSchedule": {
+    "description": "Subtitle for daily transport location setup"
+  },
+
+  "provideLocationDetails": "يرجى تقديم تفاصيل موقعك",
+  "@provideLocationDetails": {
+    "description": "Subtitle for address information"
+  },
+
+  "city": "المدينة",
+  "@city": {
+    "description": "City field label"
+  },
+
+  "enterYourCity": "أدخل مدينتك",
+  "@enterYourCity": {
+    "description": "City field hint"
+  },
+
+  "areaDistrict": "المنطقة / المقاطعة",
+  "@areaDistrict": {
+    "description": "Area/District field label"
+  },
+
+  "detailedAddress": "العنوان التفصيلي",
+  "@detailedAddress": {
+    "description": "Detailed address field label"
+  },
+
+  "detailedAddressHint": "العنوان التفصيلي",
+  "@detailedAddressHint": {
+    "description": "Detailed address field hint"
+  },
+
+  "selectDate": "اختر التاريخ",
+  "@selectDate": {
+    "description": "Date picker label"
+  },
+
+  "startTime": "وقت البداية",
+  "@startTime": {
+    "description": "Start time picker label"
+  },
+
+  "endTime": "وقت النهاية",
+  "@endTime": {
+    "description": "End time picker label"
+  },
+
+  "universityName": "اسم الجامعة",
+  "@universityName": {
+    "description": "University name field label"
+  },
+
+  "schoolName": "اسم المدرسة",
+  "@schoolName": {
+    "description": "School name field label"
+  },
+
+  "institutionName": "اسم المؤسسة",
+  "@institutionName": {
+    "description": "Institution name field label"
+  },
+
+  "neighborhood": "الحي",
+  "@neighborhood": {
+    "description": "Neighborhood field label"
+  },
+
+  "enterNeighborhoodArea": "أدخل منطقة الحي",
+  "@enterNeighborhoodArea": {
+    "description": "Neighborhood field hint"
+  },
+
+  "continueButton": "متابعة",
+  "@continueButton": {
+    "description": "Continue button label"
+  },
+
+  "studentTransport": "نقل الطلاب",
+  "@studentTransport": {
+    "description": "Student transport app bar title"
+  },
+
+  "teacherTransport": "نقل المعلمات",
+  "@teacherTransport": {
+    "description": "Teacher transport app bar title"
+  },
+
+  "employeeTransport": "نقل الموظفات",
+  "@employeeTransport": {
+    "description": "Employee transport app bar title"
+  },
+
+  "dailyTransport": "النقل اليومي",
+  "@dailyTransport": {
+    "description": "Daily transport app bar title"
+  },
+
+  "stepXOfY": "الخطوة {currentStep} من {totalSteps}",
+  "@stepXOfY": {
+    "description": "Step indicator text",
+    "placeholders": {
+      "currentStep": {
+        "type": "int"
+      },
+      "totalSteps": {
+        "type": "int"
+      }
+    }
+  },
+
+  "addressDetails": "تفاصيل العنوان",
+  "@addressDetails": {
+    "description": "Step 1 label in stepper widget"
+  },
+
+  "driverSelection": "اختر التاريخ",
+  "@driverSelection": {
+    "description": "Step 2 label in stepper widget"
+  },
+
+  "additionalDetails": "التفاصيل الإضافية",
+  "@additionalDetails": {
+    "description": "Step 3 label in stepper widget"
+  },
+
+  "bookingDetails": "تفاصيل الحجز",
+  "@bookingDetails": {
+    "description": "Booking details page title"
+  },
+
+  "driverName": "اسم السائق",
+  "@driverName": {
+    "description": "Default driver name placeholder"
+  },
+
+  "student": "طالب",
+  "@student": {
+    "description": "Student role"
+  },
+
+  "rating": "التقييم",
+  "@rating": {
+    "description": "Rating label"
+  },
+
+  "km": "كم",
+  "@km": {
+    "description": "Kilometer unit"
+  },
+
+  "type": "النوع",
+  "@type": {
+    "description": "Type label"
+  },
+
+  "pickupLocation": "موقع الاستلام",
+  "@pickupLocation": {
+    "description": "Pickup location label"
+  },
+
+  "destination": "الوجهة",
+  "@destination": {
+    "description": "Destination label"
+  },
+
+  "serviceType": "نوع الخدمة",
+  "@serviceType": {
+    "description": "Service type label"
+  },
+
+  "notSpecified": "غير محدد",
+  "@notSpecified": {
+    "description": "Not specified placeholder"
+  },
+
+  "fare": "الأجرة",
+  "@fare": {
+    "description": "Fare label"
+  },
+
+  "bookingStatus": "حالة الحجز",
+  "@bookingStatus": {
+    "description": "Booking status label"
+  },
+
+  "pickupTime": "وقت الاستلام",
+  "@pickupTime": {
+    "description": "Pickup time label"
+  },
+
+  "tripType": "نوع الرحلة",
+  "@tripType": {
+    "description": "Trip type label"
+  },
+
+  "pickupDate": "تاريخ الاستلام",
+  "@pickupDate": {
+    "description": "Pickup date label"
+  },
+
+  "workSchedule": "جدول العمل",
+  "@workSchedule": {
+    "description": "Work schedule label"
+  },
+
+  "driverGender": "جنس السائق",
+  "@driverGender": {
+    "description": "Driver gender label"
+  },
+
+  "any": "أي",
+  "@any": {
+    "description": "Any option"
+  },
+
+  "subscriptionPlan": "خطة الاشتراك",
+  "@subscriptionPlan": {
+    "description": "Subscription plan label"
+  },
+
+  "cost": "التكلفة",
+  "@cost": {
+    "description": "Cost section header"
+  },
+
+  "hours": "الساعات:",
+  "@hours": {
+    "description": "Hours label"
+  },
+
+  "pricePerHour": "السعر بالساعة:",
+  "@pricePerHour": {
+    "description": "Price per hour label"
+  },
+
+  "riyal": "ريال",
+  "@riyal": {
+    "description": "Riyal currency"
+  },
+
+  "basePrice": "السعر الأساسي:",
+  "@basePrice": {
+    "description": "Base price label"
+  },
+
+  "finalPrice": "السعر النهائي:",
+  "@finalPrice": {
+    "description": "Final price label"
+  },
+
+  "masterCard": "ماستر كارد",
+  "@masterCard": {
+    "description": "Master Card payment method"
+  },
+
+  "confirmBooking": "تأكيد الحجز",
+  "@confirmBooking": {
+    "description": "Confirm booking button"
+  },
+
+  "area": "المنطقة",
+  "@area": {
+    "description": "Area placeholder"
+  },
+
+  "institution": "المؤسسة",
+  "@institution": {
+    "description": "Institution placeholder"
+  },
+
+  "vehicle": "المركبة",
+  "@vehicle": {
+    "description": "Vehicle placeholder"
+  },
+
+  "serviceVehicle": "مركبة الخدمة",
+  "@serviceVehicle": {
+    "description": "Service vehicle label"
+  },
+
+  "asPerSchedule": "حسب الجدول",
+  "@asPerSchedule": {
+    "description": "As per schedule placeholder"
+  },
+
+  "draft": "مسودة",
+  "@draft": {
+    "description": "Draft status"
+  },
+
+  "pending": "قيد الانتظار",
+  "@pending": {
+    "description": "Pending status"
+  },
+
+  "confirmed": "مؤكد",
+  "@confirmed": {
+    "description": "Confirmed status"
+  },
+
+  "completed": "مكتمل",
+  "@completed": {
+    "description": "Completed status"
+  },
+
+  "cancelled": "ملغي",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+
+  "congratulation": "تهانينا!",
+  "@congratulation": {
+    "description": "Congratulation dialog title"
+  },
+
+  "bookingSuccessMessage": "تم حجز طلبك بنجاح. ستتلقى إشعاراً وسيتواصل معك السائق الذي اخترته.",
+  "@bookingSuccessMessage": {
+    "description": "Booking success message"
+  },
+
+  "goToBooking": "الذهاب إلى الحجز",
+  "@goToBooking": {
+    "description": "Go to booking button"
+  },
+
+  "close": "إغلاق",
+  "@close": {
+    "description": "Close button"
+  },
+
+  "selectDriverOnMap": "اختر السائق على الخريطة",
+  "@selectDriverOnMap": {
+    "description": "Header text for driver selection section"
+  },
+
+  "selectDriverFromMap": "اختر سائقاً من الخريطة للمتابعة.",
+  "@selectDriverFromMap": {
+    "description": "Instruction text for driver selection"
+  },
+
+  "search": "بحث",
+  "@search": {
+    "description": "Label for search section"
+  },
+
+  "kmUnit": "كم",
+  "@kmUnit": {
+    "description": "Unit for kilometers"
+  },
+
+  "availableDrivers": "السائقون المتاحون",
+  "@availableDrivers": {
+    "description": "Section title for driver list"
+  },
+
+  "results": "نتائج",
+  "@results": {
+    "description": "Results count suffix"
+  },
+
+  "driverRatingText": "{rating} (تقييم)",
+  "@driverRatingText": {
+    "description": "Driver rating display text",
+    "placeholders": {
+      "rating": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+
+  "driverRole": "طالب",
+  "@driverRole": {
+    "description": "Default driver role text"
+  },
+
+  "additionalDetails": "تفاصيل إضافية",
+  "@additionalDetails": {
+    "description": "Additional details section title"
+  },
+
+  "pleaseProvideAdditionalDetails": "يرجى تقديم تفاصيل إضافية.",
+  "@pleaseProvideAdditionalDetails": {
+    "description": "Additional details instruction text"
+  },
+
+  "tripType": "نوع الرحلة",
+  "@tripType": {
+    "description": "Trip type section title"
+  },
+
+  "oneWay": "اتجاه واحد",
+  "@oneWay": {
+    "description": "One way trip option"
+  },
+
+  "singleDirectionTrip": "رحلة في اتجاه واحد",
+  "@singleDirectionTrip": {
+    "description": "One way trip description"
+  },
+
+  "returnOnly": "العودة فقط",
+  "@returnOnly": {
+    "description": "Return only trip option"
+  },
+
+  "returnOnlyTrip": "رحلة العودة فقط",
+  "@returnOnlyTrip": {
+    "description": "Return only trip description"
+  },
+
+  "roundTrip": "رحلة ذهاب وإياب",
+  "@roundTrip": {
+    "description": "Round trip option"
+  },
+
+  "bothDirectionsIncluded": "الاتجاهان مشمولان",
+  "@bothDirectionsIncluded": {
+    "description": "Round trip description"
+  },
+
+  "transportationOptions": "خيارات النقل",
+  "@transportationOptions": {
+    "description": "Transportation options section title"
+  },
+
+  "privateTransport": "نقل خاص",
+  "@privateTransport": {
+    "description": "Private transport option"
+  },
+
+  "yourOwnPrivateVehicle": "مركبتك الخاصة",
+  "@yourOwnPrivateVehicle": {
+    "description": "Private transport description"
+  },
+
+  "subscriber": "مشترك",
+  "@subscriber": {
+    "description": "Subscriber option"
+  },
+
+  "joinSubscriptionService": "انضم لخدمة الاشتراك",
+  "@joinSubscriptionService": {
+    "description": "Subscriber description"
+  },
+
+  "male": "ذكر",
+  "@male": {
+    "description": "Male gender option"
+  },
+
+  "female": "أنثى",
+  "@female": {
+    "description": "Female gender option"
+  },
+
+  "any": "أي",
+  "@any": {
+    "description": "Any gender option"
+  },
+
+  "monthly": "شهري",
+  "@monthly": {
+    "description": "Monthly subscription option"
+  },
+
+  "quarterly": "ربع سنوي",
+  "@quarterly": {
+    "description": "Quarterly subscription option"
+  },
+
+  "yearly": "سنوي",
+  "@yearly": {
+    "description": "Yearly subscription option"
+  },
+
+  "workSchedule": "جدول العمل",
+  "@workSchedule": {
+    "description": "Work schedule section title"
+  },
+
+  "morning": "صباحي",
+  "@morning": {
+    "description": "Morning schedule option"
+  },
+
+  "evening": "مسائي",
+  "@evening": {
+    "description": "Evening schedule option"
+  },
+
+  "flexible": "مرن",
+  "@flexible": {
+    "description": "Flexible schedule option"
+  },
+
+  "finalPrice": "السعر النهائي",
+  "@finalPrice": {
+    "description": "Final price section title"
+  },
+
+  "riyal": "ريال",
+  "@riyal": {
+    "description": "Currency unit"
+  },
+
+  "vehicleType": "نوع المركبة",
+  "@vehicleType": {
+    "description": "Vehicle type selection title"
+  },
+
+  "car": "سيارة",
+  "@car": {
+    "description": "Car vehicle option"
+  },
+
+  "bus": "حافلة",
+  "@bus": {
+    "description": "Bus vehicle option"
+  },
+
+  "startDate": "تاريخ البدء",
+  "@startDate": {
+    "description": "Start date field label"
+  },
+
+  "startTime": "وقت البدء",
+  "@startTime": {
+    "description": "Start time field label"
+  },
+
+  "returnTime": "وقت العودة",
+  "@returnTime": {
+    "description": "Return time field label"
+  },
+
+  "cost": "التكلفة",
+  "@cost": {
+    "description": "Cost section title"
+  },
+
+  "basePrice": "السعر الأساسي:",
+  "@basePrice": {
+    "description": "Base price label"
+  },
+
+  "totalEstimate": "إجمالي التقدير:",
+  "@totalEstimate": {
+    "description": "Total estimate label"
+  },
+
+  "driverGender": "جنس السائق",
+  "@driverGender": {
+    "description": "Driver gender selection title"
+  },
+
+  "subscriptionPlan": "خطة الاشتراك",
+  "@subscriptionPlan": {
+    "description": "Subscription plan selection title"
+  },
+
+  "transportationSchedule": "جدول النقل",
+
+  "markAllRead": "تحديد الكل كمقروء",
+
+  "yesterday": "أمس",
+
+  "bookingUpdate": "تحديث الحجز",
+
+  "rideInProgress": "الرحلة قيد التنفيذ",
+
+  "rideCompleted": "تم إنهاء الرحلة",
+
+  "rideRescheduledMessage": "تم إعادة جدولة رحلتك مع السائق {driverName}.",
+
+  "driverAwayMessage": "السائق {driverName} على بعد {minutes} دقائق.",
+
+  "rideEndedSuccessfullyMessage": "تم إنهاء رحلتك مع السائق {driverName} بنجاح.",
+
+  "cancellationReason": "سبب الإلغاء",
+
+  "whyAreyouCanceling": "لماذا تقوم بالإلغاء؟",
+
+  "feedbackHelpsImprove": "ملاحظاتك تساعدنا في التحسين.",
+
+  "driverTakingTooLong": "السائق يستغرق وقتاً طويلاً للوصول",
+
+  "foundAnotherRide": "وجدت رحلة أخرى",
+
+  "changeOfPlans": "تغيير في الخطط",
+
+  "incorrectPickupLocation": "موقع الاستلام غير صحيح",
+
+  "driverAskedToCancel": "طلب السائق مني الإلغاء",
+
+  "driverBehavior": "سلوك السائق",
+
+  "other": "أخرى",
+
+  "submitCancelRide": "إرسال وإلغاء الرحلة",
+
+  "selectCancellationReason": "اختر سبب الإلغاء",
+
+  "cancelRideRequest": "إلغاء طلب الرحلة؟",
+
+  "cancelRideConfirmation": "هل أنت متأكد من أنك تريد إلغاء طلب الرحلة هذا؟ سنتوقف عن البحث عن سائق.",
+
+  "yesCancel": "نعم، ألغي",
+
+  "noDontCancel": "لا، لا تلغي",
+
+  "rideCancelled": "تم إلغاء الرحلة!",
+
+  "rideCancelledMessage": "تم إلغاء رحلتك بنجاح. نحن نقدر ملاحظاتك وسنعمل على تحسين خدمتنا.",
+
+  "okay": "حسناً",
+
+  "addNewPayment": "إضافة طريقة دفع جديدة",
+
+  "savedCards": "البطاقات المحفوظة",
+
+  "googlePay": "جوجل باي",
+
+  "applePay": "آبل باي",
+
+  "paypal": "باي بال",
+
+  "confirmPayment": "تأكيد الدفع",
+
+  "selectNewPaymentMethod": "اختر طريقة دفع جديدة",
+
+  "cardHolderName": "اسم حامل البطاقة",
+
+  "cardNumber": "رقم البطاقة",
+
+  "expiryDate": "تاريخ الانتهاء",
+
+  "cvv": "CVV (***)",
+
+  "proceedToPayment": "المتابعة للدفع",
+
+  "howCanIBookTrip": "كيف يمكنني حجز رحلة؟",
+
+  "bookTripAnswer": "يمكنك حجز رحلة من خلال اختيار نوع الخدمة المناسب (مثل نقل الطلاب، نقل المعلمين، إلخ)، ثم تحديد موقعك والوجهة المرغوبة.",
+
+  "howCanIPay": "كيف يمكنني الدفع؟",
+
+  "paymentMethodsAnswer": "نوفر عدة طرق للدفع: البطاقات المصرفية، المحفظة الإلكترونية، أو الدفع النقدي.",
+
+  "howContactCustomerService": "كيف يمكنني التواصل مع خدمة العملاء؟",
+
+  "contactServiceAnswer": "يمكنك التواصل معنا عبر:\nالهاتف: 92000000\nالبريد الإلكتروني: support@semester.com",
+
+  "howCancelRide": "كيف يمكنني إلغاء رحلتي؟",
+
+  "cancelRideAnswer": "يمكنك إلغاء رحلتك من خلال الذهاب إلى رحلاتك النشطة واختيار خيار الإلغاء. يرجى ملاحظة أن رسوم الإلغاء قد تنطبق حسب التوقيت.",
+
+  "whatSafetyMeasures": "ما هي إجراءات السلامة؟",
+
+  "safetyMeasuresAnswer": "جميع سائقينا معتمدون ومفحوصون. نوفر تتبعاً في الوقت الفعلي وجهات اتصال طوارئ ودعماً على مدار الساعة لسلامتك.",
+
+  "howReportIssue": "كيف أبلغ عن مشكلة؟",
+
+  "reportIssueAnswer": "يمكنك الإبلاغ عن المشاكل من خلال التطبيق بالذهاب إلى الإعدادات > الإبلاغ عن مشكلة، أو التواصل مع خدمة العملاء مباشرة.",
+
+  "needMoreHelp": "تحتاج مساعدة أكثر؟",
+
+  "phoneContact": "الهاتف: 92000000",
+
+  "emailContact": "البريد الإلكتروني: support@semester.com",
+
+  "addReview": "إضافة تقييم",
+
+  "submitReview": "إرسال التقييم",
+
+  "reviewSubmitted": "تم إرسال التقييم!",
+
+  "reviewSubmittedMessage": "شكراً لك على ملاحظاتك! تم إرسال تقييمك بنجاح وسيساعد الركاب الآخرين في اتخاذ قرارات مدروسة.",
+
+  "great": "رائع!",
+
+  "driverInformation": "معلومات السائق",
+
+  "driver": "السائق",
+
+  "reviewGuidelines": "إرشادات التقييم",
+
+  "guidelinePublic": "سيكون تقييمك عاماً ومرئياً للمستخدمين الآخرين",
+
+  "guidelineHonest": "كن صادقاً وعادلاً في تقييمك",
+
+  "guidelineServiceQuality": "ركز على جودة الخدمة والسلامة",
+
+  "guidelineRespectful": "اجعل تقييمك محترماً وبناءً",
+
+  "driverCommunicationRating": "تقييم تواصل السائق",
+
+  "vehicleCondition": "حالة المركبة",
+
+  "addReviewComment": "إضافة تقييم / تعليق",
+
+  "reviewPlaceholder": "أخبرنا عن تجربتك مع هذه الرحلة...",
+
+  "reviews": "تقييمات",
+
+  "driverRatingFormat": "{driver} • {rating} ⭐ ({reviewCount} {reviews})",
+
+  "helloDriver": "مرحباً، {name}",
+
+  "rating": "التقييم",
+
+  "totalBooking": "إجمالي الحجوزات",
+
+  "upcoming": "القادمة",
+
+  "totalEarning": "إجمالي الأرباح",
+
+  "newWithdraw": "سحب جديد",
+
+  "newBookingRequests": "طلبات الحجز الجديدة",
+
+  "noNewBookingRequests": "لا توجد طلبات حجز جديدة",
+
+  "newRideRequestsWillAppear": "ستظهر طلبات الرحلات الجديدة هنا",
+
+  "defaultLocationText": "مبنى د-3، الحرم الرئيسي، المدينة المنورة، 41511",
+
+  "postedMinutesAgo": "نُشر قبل دقيقتين",
+
+  "pricing": "التسعير",
+
+  "alRajhiScheme": "مخطط الراجحي",
+
+  "kauUniversity": "جامعة الملك عبدالعزيز",
+
+  "tripWay": "نوع الرحلة",
+
+  "roundTrip": "رحلة ذهاب وإياب",
+
+  "startTime": "وقت البداية",
+
+  "startDate": "تاريخ البداية",
+
+  "returnTime": "وقت العودة",
+
+  "acceptBooking": "قبول الحجز",
+
+  "declineBooking": "رفض الحجز",
+
+  "chatWithUser": "محادثة مع المستخدم",
+
+  "closeBooking": "إغلاق الحجز",
+
+  "student": "طالب",
+
+  "employee": "موظفة",
+
+  "user": "مستخدم",
+
+  "active": "نشط",
+
+  "pending": "معلق",
+
+  "completed": "مكتمل",
+
+  "cancelled": "ملغى",
+
+  "theStudent": "الطالب",
+
+  "theEmployee": "الموظف",
+
+  "theUser": "المستخدم",
+
+  "myBookings": "حجوزاتي",
+
+  "current": "الحالية",
+
+  "previous": "السابقة",
+
+  "noCurrentBookings": "لا توجد حجوزات حالية",
+
+  "noPreviousBookings": "لا توجد حجوزات سابقة",
+
+  "currentBookingsWillAppear": "ستظهر حجوزاتك الحالية هنا",
+
+  "previousBookingsWillAppear": "ستظهر حجوزاتك السابقة هنا",
+
+  "flagAsInappropriate": "الإبلاغ كمحتوى غير مناسب",
+
+  "typeOfIssue": "نوع المشكلة",
+
+  "safetyConcern": "مخاوف تتعلق بالسلامة",
+
+  "navigationRouteIssue": "مشكلة في التنقل والطريق",
+
+  "submitReport": "إرسال التقرير",
+
+  "reportSubmitted": "تم إرسال التقرير",
+
+  "thankYouForReport": "شكراً لك على تقريرك. سنقوم بمراجعة هذه المسألة.",
+
+  "reportSubmittedMessage": "تم إرسال تقريرك بنجاح. شكراً لك على مساعدتنا في الحفاظ على سلامة مجتمعنا.",
+
+  "reportSubmissionFailed": "فشل في إرسال التقرير",
+
+  "reportSubmissionFailedMessage": "فشل في إرسال التقرير. يرجى المحاولة مرة أخرى.",
+
+  "selectTypeOfIssue": "اختر نوع المشكلة",
+
+  "pleaseProvideReason": "يرجى تقديم سبب الإبلاغ",
+
+  "reportDescription": "وصف التقرير",
+
+  "tellUsWhatHappened": "أخبرنا بما حدث...",
+
+  "detailsOptional": "التفاصيل (اختيارية)",
+
+  "providingDetails": "تقديم تفاصيل إضافية يساعدنا في فهم المشكلة بشكل أفضل.",
+
+  "detailsPlaceholder": "اكتب التفاصيل هنا...",
+
+  "reason": "السبب",
+
+  "details": "التفاصيل",
+
+  "submittingReport": "جاري إرسال التقرير...",
+
+  "fillAllFields": "يرجى ملء جميع الحقول المطلوبة",
+
+  "confirmReport": "تأكيد التقرير",
+
+  "confirmReportMessage": "هل أنت متأكد من أنك تريد إرسال هذا التقرير؟",
+
+  "reportUser": "الإبلاغ عن المستخدم",
+
+  "reportDriver": "الإبلاغ عن السائق",
+
+  "reportContent": "الإبلاغ عن المحتوى",
+
+  "flagContent": "الإبلاغ عن المحتوى",
+
+  "flagUser": "الإبلاغ عن المستخدم",
+
+  "inappropriateContent": "محتوى غير مناسب",
+
+  "inappropriateBehavior": "سلوك غير مناسب",
+
+  "harassment": "مضايقة",
+
+  "spam": "محتوى مزعج",
+
+  "violatesTerms": "مخالفة الشروط والأحكام",
+
+  "safety": "السلامة",
+
+  "reportingReason": "سبب الإبلاغ",
+
+  "safetyConcernSubtitle": "(مثل، موقع استلام/إنزال غير آمن، طلب خطير)",
+
+  "invalidPickupDropoff": "موقع استلام/إنزال غير صالح",
+
+  "noShowPassenger": "عدم حضور (الراكب لم يحضر)",
+
+  "suspiciousActivity": "نشاط مشبوه",
+
+  "pleaseSelectReportReason": "يرجى اختيار سبب الإبلاغ",
+
+  "submitReportQuestion": "إرسال التقرير؟",
+
+  "submitReportConfirmation": "هل أنت متأكد من أنك تريد إرسال هذا التقرير؟ سيقوم فريق الدعم بمراجعته واتخاذ الإجراء المناسب.",
+
+  "yesSubmitReport": "نعم، أرسل التقرير",
+
+  "reportSubmittedSuccessfully": "تم إرسال تقريرك بنجاح. سيقوم فريق الدعم بمراجعته واتخاذ الإجراء المناسب.",
+
+  "reportCategorizeHelper": "هذا يساعد في تصنيف التقرير لمعالجة أسرع من قبل فريق الدعم.",
+  
+  "totalDistance": "المسافة الإجمالية",
+  
+  "transportationType": "نوع النقل",
+  
+  "groupTransport": "نقل جماعي",
+  
+  "estimatedDuration": "المدة المقدرة",
+  
+  "sedanCar": "سيارة سيدان",
+  
+  "suitableForPassengers": "مناسبة لـ 4 ركاب",
+  
+  "dubai": "دبي",
+  
+  "notSpecified": "غير محدد",
+  
+  "theStudent": "الطالب",
+  
+  "theEmployee": "الموظف",
+  
+  "theUser": "المستخدم",
+  
+  "myEarnings": "أرباحي",
+  
+  "totalEarnings": "إجمالي الأرباح",
+  
+  "withdraw": "سحب",
+  
+  "bookingsEarning": "أرباح الحجوزات",
+  
+  "orderNumber": "طلب رقم",
+  
+  "sar": "ريال",
+  
+  "myProfile": "ملفي الشخصي",
+  
+  "settings": "الإعدادات",
+  
+  "review": "المراجعات",
+  
+  "payment": "الدفع",
+  
+  "appearance": "المظهر",
+  
+  "notifications": "الإشعارات",
+  
+  "helpSupport": "المساعدة والدعم",
+  
+  "changePassword": "تغيير كلمة المرور",
+  
+  "logout": "تسجيل الخروج",
+  
+  "reviewsRatings": "المراجعات والتقييمات",
+  
+  "overallRating": "التقييم الإجمالي",
+  
+  "totalReviews": "إجمالي المراجعات",
+  
+  "recentReviews": "المراجعات الحديثة",
+  
+  "errorSigningOut": "خطأ في تسجيل الخروج:",
+  
+  "english": "English",
+  
+  "editProfile": "تعديل الملف الشخصي",
+  
+  "personalInformation": "المعلومات الشخصية",
+  
+  "fullName": "الاسم الكامل",
+  
+  "enterFullName": "أدخل اسمك الكامل",
+  
+  "emailAddress": "عنوان البريد الإلكتروني",
+  
+  "mobileNumber": "رقم الجوال",
+  
+  "enterMobileNumber": "أدخل رقم جوالك",
+  
+  "vehicleInformation": "معلومات المركبة",
+  
+  "vehicleMake": "ماركة المركبة",
+  
+  "selectVehicleMake": "اختر ماركة المركبة",
+  
+  "vehicleModel": "موديل المركبة",
+  
+  "selectVehicleModel": "اختر موديل المركبة",
+  
+  "vehicleModelHint": "مثال: تويوتا كورولا 2020",
+  
+  "vehicleYear": "سنة المركبة",
+  
+  "selectVehicleYear": "اختر سنة المركبة",
+  
+  "serviceAddress": "عنوان الخدمة",
+  
+  "enterServiceArea": "أدخل منطقة خدمتك",
+  
+  "serviceType": "نوع الخدمة",
+  
+  "selectServiceType": "اختر نوع خدمتك",
+  
+  "fullTime": "دوام كامل",
+  
+  "partTime": "دوام جزئي",
+  
+  "hoursPerWeek": "40+ ساعة/أسبوع",
+  
+  "flexibleHours": "ساعات مرنة",
+  
+  "licenseNumber": "رقم الرخصة",
+  
+  "enterLicenseNumber": "أدخل رقم رخصتك",
+  
+  "updateProfile": "تحديث الملف الشخصي",
+  
+  "inbox": "صندوق الوارد",
+  
+  "online": "متصل",
+  
+  "typeYourMessage": "اكتب رسالتك",
+
+  "availableOffers": "العروض المتاحة",
+  "offersReceived": "عرض مستلم",
+  "closest": "الأقرب",
+  "cheapest": "الأرخص",
+  "topRated": "الأعلى تقييماً",
+  "searchingForProviders": "البحث عن مقدمي الخدمة...",
+  "mayTakeUpTo30Seconds": "قد يستغرق هذا حتى 30 ثانية",
+  "noOffersReceivedYet": "لم يتم استلام عروض بعد",
+  "providersHave30MinutesToRespond": "لدى مقدمي الخدمة 30 دقيقة للرد على طلبك",
+  "individual": "فردي",
+  "company": "شركة",
+  "trips": "رحلة",
+  "perMonth": "شهرياً",
+  "perRide": "للكرحلة",
+  "seats": "مقعد",
+  "verified": "موثق",
+  "liveTracking": "تتبع مباشر",
+  "insured": "مؤمن",
+  "femaleDriver": "سائقة",
+  "accept": "قبول",
+  "negotiate": "تفاوض",
+  "chat": "محادثة",
+  "decline": "رفض",
+  "offerAcceptedSuccessfully": "تم قبول العرض بنجاح!",
+  "failedToAcceptOffer": "فشل في قبول العرض",
+
+  "chooseARole": "اختر دوراً",
+  "selectAccordingToYourUses": "اختر حسب استخدامك",
+  "iNeedTransport": "أحتاج نقل",
+  "customer": "عميل",
+  "iProvideTransport": "أقدم خدمة النقل",
+  "driverCompany": "سائق/شركة",
+
+  "addDriver": "إضافة سائق",
+  "driverInfo": "معلومات السائق",
+  "fullName": "الاسم الكامل",
+  "enterName": "أدخل الاسم",
+  "phoneNumber": "رقم الهاتف",
+  "emailOptional": "البريد الإلكتروني (اختياري)",
+  "status": "الحالة",
+  "online": "متصل",
+  "offline": "غير متصل",
+  "busy": "مشغول",
+  "assignVehicleOptional": "تعيين مركبة (اختياري)",
+  "createDriver": "إنشاء سائق",
+  "unassigned": "غير معين",
+  "nameAndPhoneRequired": "الاسم ورقم الهاتف مطلوبان",
+  "driverCreated": "تم إنشاء السائق",
+
+  "addVehicle": "إضافة مركبة",
+  "basicInfo": "المعلومات الأساسية",
+  "plateNumber": "رقم اللوحة",
+  "make": "الماركة",
+  "model": "الموديل",
+  "type": "النوع",
+  "sedan": "سيدان",
+  "suv": "دفع رباعي",
+  "van": "فان",
+  "bus": "حافلة",
+  "transmission": "ناقل الحركة",
+  "auto": "أوتوماتيك",
+  "manual": "يدوي",
+  "year": "السنة",
+  "seatCapacity": "سعة المقاعد",
+  "createVehicle": "إنشاء مركبة",
+  "plateMakeModelRequired": "رقم اللوحة والماركة والموديل مطلوبة",
+  "vehicleCreated": "تم إنشاء المركبة",
+
+  "chooseDriverType": "اختر نوع السائق",
+  "selectHowToRegisterAsDriver": "اختر كيف تريد التسجيل كسائق",
+  "individualDriver": "سائق فردي",
+  "iRepresentCompany": "شركة نقل ممثل الشركة",
+  "companyDriver": "سائق شركة",
+  "pleaseSelectDriverType": "يرجى اختيار نوع السائق",
+  "navigationFailed": "فشل في التنقل",
+
+  "companyRegistration": "تسجيل الشركة",
+  "registerYourTransportationCompany": "سجل شركة النقل الخاصة بك",
+  "companyInformation": "معلومات الشركة",
+  "companyName": "اسم الشركة",
+  "enterCompanyName": "أدخل اسم الشركة",
+  "emailAddress": "البريد الإلكتروني",
+  "enterCompanyEmail": "أدخل بريد الشركة الإلكتروني",
+  "enterCompanyPhone": "أدخل رقم هاتف الشركة",
+  "companyAddress": "عنوان الشركة",
+  "enterCompanyAddress": "أدخل عنوان الشركة",
+  "licenseNumber": "رقم الرخصة",
+  "enterBusinessLicenseNumber": "أدخل رقم رخصة العمل",
+  "region": "المنطقة",
+  "city": "المدينة",
+  "pleaseFillAllRequiredFields": "يرجى ملء جميع الحقول المطلوبة",
+  "registrationFailed": "فشل في التسجيل",
+
+  "enterYourPhoneNumberForVerification": "أدخل رقم هاتفك للتحقق",
+  "enterYourPhoneNumber": "أدخل رقم هاتفك",
+  "weWillSendVerificationCode": "سنرسل لك رمز التحقق لتأكيد رقم هاتفك",
+  "sendVerificationCode": "إرسال رمز التحقق",
+  "pleaseEnterYourPhoneNumber": "يرجى إدخال رقم هاتفك",
+  "pleaseEnterValidPhoneNumber": "يرجى إدخال رقم هاتف صحيح",
+
+  "accountSettings": "إعدادات الحساب",
+  "editProfile": "تعديل الملف الشخصي",
+  "editProfileSubtitle": "قم بتحديث معلوماتك الشخصية",
+  "changePhoneNumber": "تغيير رقم الهاتف",
+  "changePhoneNumberSubtitle": "قم بتحديث رقم هاتفك",
+  "changeEmail": "تغيير الإيميل",
+  "changeEmailSubtitle": "قم بتحديث عنوان بريدك الإلكتروني",
+  "changeAddress": "تغيير العنوان",
+  "changeAddressSubtitle": "قم بتحديث معلومات عنوانك",
+  "appSettings": "إعدادات التطبيق",
+  "appearanceSubtitle": "خصص مظهر التطبيق",
+  "notificationsSubtitle": "إدارة تفضيلات الإشعارات",
+  "locationSettings": "إعدادات الموقع",
+  "locationSettingsSubtitle": "إدارة أذونات الموقع",
+  "paymentSecurity": "الدفع والأمان",
+  "paymentMethods": "طرق الدفع",
+  "paymentMethodsSubtitle": "إدارة طرق الدفع الخاصة بك",
+  "changePasswordSubtitle": "قم بتحديث كلمة المرور",
+  "privacySettings": "إعدادات الخصوصية",
+  "privacySettingsSubtitle": "إدارة تفضيلات الخصوصية",
+  "supportHelp": "الدعم والمساعدة",
+  "helpSupportSubtitle": "احصل على المساعدة والدعم",
+  "aboutApp": "حول التطبيق",
+  "aboutAppSubtitle": "إصدار التطبيق والمعلومات",
+  "rateApp": "تقييم التطبيق",
+  "rateAppSubtitle": "قيمنا في متجر التطبيقات",
+  "trips": "الرحلات",
+  "rating": "التقييم",
+  "contact": "الاتصال",
+  "loading": "جاري التحميل...",
+  "errorLoadingData": "خطأ في تحميل البيانات",
+  "logoutConfirmation": "هل أنت متأكد من أنك تريد تسجيل الخروج؟",
+  "logoutError": "حدث خطأ أثناء تسجيل الخروج",
+
+  "studentTransport": "نقل الطلاب",
+  "studentTransportDescription": "نقل الطلاب إلى الجامعات والمدارس",
+  "teacherTransport": "نقل المعلمين",
+  "teacherTransportDescription": "نقل المعلمين والموظفين",
+  "employeeTransport": "نقل الموظفين",
+  "employeeTransportDescription": "نقل الموظفين إلى أماكن العمل",
+  "metroTransport": "نقل المترو",
+  "metroTransportDescription": "النقل إلى محطات المترو",
+  "pleaseSelectAtLeastOneService": "يرجى اختيار خدمة واحدة على الأقل",
+  "serviceSelection": "اختيار الخدمة",
+  "selectServicesYouProvide": "اختر الخدمات التي تقدمها",
+  "continueText": "متابعة",
+  "pleaseSelectYourRegion": "يرجى اختيار المنطقة",
+  "pleaseSelectYourCity": "يرجى اختيار المدينة",
+  "pleaseSelectYourDistrict": "يرجى اختيار الحي",
+  "locationInformation": "معلومات الموقع",
+  "selectYourServiceArea": "اختر منطقة الخدمة الخاصة بك",
+  "region": "المنطقة",
+  "district": "الحي",
+  "pleaseEnterYourFullName": "يرجى إدخال اسمك الكامل",
+  "pleaseEnterYourEmailAddress": "يرجى إدخال عنوان بريدك الإلكتروني",
+  "passwordMustBeAtLeast6Characters": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+  "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+  "pleaseSelectYourGender": "يرجى اختيار جنسك",
+  "personalInformation": "المعلومات الشخصية",
+  "tellUsAboutYourself": "أخبرنا عن نفسك",
+  "fullName": "الاسم الكامل",
+  "enterYourFullName": "أدخل اسمك الكامل",
+  "emailAddress": "عنوان البريد الإلكتروني",
+  "enterYourEmail": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "enterYourPassword": "أدخل كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "confirmYourPassword": "أكد كلمة المرور",
+  "gender": "الجنس",
+  "driverLicense": "رخصة القيادة",
+  "validDrivingLicense": "رخصة قيادة صالحة",
+  "vehicleRegistration": "تسجيل المركبة",
+  "vehicleRegistrationCertificate": "شهادة تسجيل المركبة",
+  "insuranceCertificate": "شهادة التأمين",
+  "vehicleInsuranceCertificate": "شهادة تأمين المركبة",
+  "backgroundCheck": "فحص الخلفية",
+  "criminalBackgroundCheck": "فحص الخلفية الجنائية",
+  "vehiclePhoto": "صورة المركبة",
+  "uploadVehiclePhoto": "قم برفع صورة واضحة للمركبة",
+  "medicalCertificate": "الشهادة الطبية",
+  "healthCertificate": "شهادة صحية",
+  "documentUploadedSuccessfully": "تم رفع المستند بنجاح",
+  "pleaseUploadAllRequiredDocuments": "يرجى رفع جميع المستندات المطلوبة",
+  "documentUpload": "رفع المستندات",
+  "uploadRequiredDocumentsToCompleteRegistration": "ارفع المستندات المطلوبة لإكمال التسجيل",
+  "completeRegistration": "إكمال التسجيل",
+  "required": "مطلوب",
+  "upload": "رفع",
+  "pleaseSelectVehicleMake": "يرجى اختيار ماركة المركبة",
+  "pleaseSelectVehicleModel": "يرجى اختيار موديل المركبة",
+  "pleaseSelectVehicleYear": "يرجى اختيار سنة المركبة",
+  "pleaseEnterPlateNumber": "يرجى إدخال رقم اللوحة",
+  "pleaseSelectVehicleType": "يرجى اختيار نوع المركبة",
+  "vehicleInformation": "معلومات المركبة",
+  "tellUsAboutYourVehicle": "أخبرنا عن مركبتك",
+  "vehicleMake": "ماركة المركبة",
+  "vehicleModel": "موديل المركبة",
+  "vehicleYear": "سنة المركبة",
+  "plateNumber": "رقم اللوحة",
+  "plateNumberExample": "مثال: ABC-1234",
+  "vehicleType": "نوع المركبة",
+  "airConditioningAvailable": "مكيف الهواء متوفر",
+  "pleaseEnterTheVerificationCode": "يرجى إدخال رمز التحقق",
+  "pleaseEnterValid6DigitCode": "يرجى إدخال رمز صحيح مكون من 6 أرقام",
+  "verificationCodeSentSuccessfully": "تم إرسال رمز التحقق بنجاح",
+  "verificationCode": "رمز التحقق",
+  "enter6DigitCodeSentTo": "أدخل الرمز المكون من 6 أرقام المرسل إلى\n{phoneNumber}",
+  "enter6DigitCode": "أدخل الرمز المكون من 6 أرقام",
+  "resendCodeIn": "إعادة إرسال الرمز خلال {time}",
+  "resendCode": "إعادة إرسال الرمز",
+  "checkYourSMSMessagesForVerificationCode": "تحقق من رسائل SMS للحصول على رمز التحقق",
+  "verifyCode": "تحقق من الرمز",
+  "currentPhoneNumber": "رقم الهاتف الحالي",
+  "newPhoneNumber": "رقم الهاتف الجديد",
+  "enterNewPhoneNumber": "أدخل رقم الهاتف الجديد",
+  "phoneChangeInfo": "سنرسل لك رمز تحقق لتأكيد رقم هاتفك الجديد",
+  "updatePhoneNumber": "تحديث رقم الهاتف",
+  "pleaseEnterPhoneNumber": "يرجى إدخال رقم الهاتف",
+  "phoneUpdatedSuccessfully": "تم تحديث رقم الهاتف بنجاح",
+  "currentAddress": "العنوان الحالي",
+  "newAddress": "العنوان الجديد",
+  "enterNewAddress": "أدخل العنوان الجديد",
+  "addressChangeInfo": "سيتم استخدام عنوانك لخدمات الاستلام والتوصيل",
+  "updateAddress": "تحديث العنوان",
+  "pleaseEnterAddress": "يرجى إدخال العنوان",
+  "addressUpdatedSuccessfully": "تم تحديث العنوان بنجاح"
+}
