@@ -37,7 +37,7 @@ class _WidgetState extends ConsumerState<Splash>
 
   @override
   Widget build(BuildContext context) {
-    final l10n = AppLocalizations.of(context)!;
+    // final l10n = AppLocalizations.of(context)!;
     return Scaffold(
       backgroundColor: accentPurple,
       body: Stack(

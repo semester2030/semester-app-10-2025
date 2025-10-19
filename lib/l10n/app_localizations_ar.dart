@@ -1331,11 +1331,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String driverRatingFormat(
-    String driver,
-    String rating,
-    String reviewCount,
-    String reviews,
-  ) {
+      String driver, String rating, String reviewCount, String reviews) {
     return '$driver • $rating ⭐ ($reviewCount $reviews)';
   }
 

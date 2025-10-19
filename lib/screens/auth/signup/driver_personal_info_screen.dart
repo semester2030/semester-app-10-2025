@@ -22,12 +22,12 @@ class DriverPersonalInfoScreen extends HookConsumerWidget {
     
     // Local state
     final selectedGender = useState<String?>(null);
-    final selectedCity = useState<String?>(null);
+    // final selectedCity = useState<String?>(null);
     final isLoading = useState(false);
 
     // Sample data
     final genders = ['Male', 'Female'];
-    final cities = ['Riyadh', 'Jeddah', 'Mecca', 'Medina', 'Dammam', 'Khobar'];
+    // final cities = ['Riyadh', 'Jeddah', 'Mecca', 'Medina', 'Dammam', 'Khobar'];
 
     Future<void> onContinuePressed() async {
       if (nameController.text.trim().isEmpty) {
@@ -70,13 +70,13 @@ class DriverPersonalInfoScreen extends HookConsumerWidget {
         return;
       }
 
-      if (selectedCity.value == null) {
-        showErrorFlushBar(
-          message: l10n.pleaseSelectYourCity,
-          context: context,
-        );
-        return;
-      }
+      // if (selectedCity.value == null) {
+      //   showErrorFlushBar(
+      //     message: l10n.pleaseSelectYourCity,
+      //     context: context,
+      //   );
+      //   return;
+      // }
 
       try {
         isLoading.value = true;
@@ -89,7 +89,7 @@ class DriverPersonalInfoScreen extends HookConsumerWidget {
             'email': emailController.text.trim(),
             'password': passwordController.text,
             'gender': selectedGender.value,
-            'city': selectedCity.value,
+            // 'city': selectedCity.value,
             'isFromDriverSignup': isFromDriverSignup,
           });
         }
@@ -222,17 +222,17 @@ class DriverPersonalInfoScreen extends HookConsumerWidget {
                           icon: Icons.person_outline,
                         ),
                         
-                        16.verticalSpace,
+                        // 16.verticalSpace,
                         
-                        // City selection
-                        _buildSelectionField(
-                          context,
-                          title: l10n.city,
-                          selectedValue: selectedCity.value,
-                          options: cities,
-                          onChanged: (value) => selectedCity.value = value,
-                          icon: Icons.location_city,
-                        ),
+                        // // City selection
+                        // _buildSelectionField(
+                        //   context,
+                        //   title: l10n.city,
+                        //   selectedValue: selectedCity.value,
+                        //   options: cities,
+                        //   onChanged: (value) => selectedCity.value = value,
+                        //   icon: Icons.location_city,
+                        // ),
                         
                         32.verticalSpace,
                         
