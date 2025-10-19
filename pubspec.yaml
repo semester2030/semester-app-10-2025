@@ -74,7 +74,7 @@ dev_dependencies:
     sdk: flutter
     
   # Linting and Code Quality Packages
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
   riverpod_generator: ^2.3.11
   build_runner: ^2.4.13
   json_serializable:
